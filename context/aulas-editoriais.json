@@ -1,294 +1,294 @@
 [
   {
     "titulo": "Identifique o modelo e escreva um pedido simples",
-    "entrega": "registrar o modelo disponível e um pedido de três partes",
-    "dor": "Uma opção chamada Pro pode se referir à conversa. Você precisa saber qual recurso gerou sua imagem.",
+    "entrega": "registrar o modelo disponÃ­vel e um pedido de trÃªs partes",
+    "dor": "Uma opÃ§Ã£o chamada Pro pode se referir Ã  conversa. VocÃª precisa saber qual recurso gerou sua imagem.",
     "antes": "Qualquer imagem criada na conversa Pro veio do Nano Banana Pro.",
-    "depois": "Confira a informação da imagem e registre o modelo. Separe objeto, contexto e escolhas de luz no pedido.",
+    "depois": "Confira a informaÃ§Ã£o da imagem e registre o modelo. Separe objeto, contexto e escolhas de luz no pedido.",
     "campos": [
-      "Objeto: garrafa verde fosca, cilíndrica, tampa preta",
-      "Contexto: mesa clara de café",
+      "Objeto: garrafa verde fosca, cilÃ­ndrica, tampa preta",
+      "Contexto: mesa clara de cafÃ©",
       "Luz e formato: janela suave; quadrado; produto inteiro"
     ],
     "passos": [
-      "Abra gemini.google.com e procure Criar imagem. Nas Notas, registre o modelo explicitamente informado para imagens. Se só vir Pro da conversa, escreva modelo da imagem não confirmado.",
+      "Abra gemini.google.com e procure Criar imagem. Nas Notas, registre o modelo explicitamente informado para imagens. Se sÃ³ vir Pro da conversa, escreva modelo da imagem nÃ£o confirmado.",
       "Copie a ficha e escreva uma linha para objeto, outra para contexto e outra para luz e formato.",
-      "Leia o pedido e destaque corpo cilíndrico, verde fosco e tampa preta. Não gere ainda: esta prática termina com o registro."
+      "Leia o pedido e destaque corpo cilÃ­ndrico, verde fosco e tampa preta. NÃ£o gere ainda: esta prÃ¡tica termina com o registro."
     ],
-    "molde": "Ferramenta e modelo observado: <nome de imagem ou modelo da imagem não confirmado>.\nObjeto: garrafa verde fosca, corpo cilíndrico, tampa preta.\nContexto: mesa clara de café.\nLuz: janela suave. Formato: quadrado, produto inteiro, sem texto.",
-    "pronto": "o modelo ou a ausência dele está registrado e o pedido tem três partes",
-    "confira": "O nome da conversa não substitui a informação da imagem.",
-    "calma": "Não encontrou Pro? Registre a ausência e prepare o pedido. Você não precisa contratar um plano para concluir esta ficha.",
-    "q": "A conversa está em Pro, mas a imagem informa Nano Banana 2. O que registrar?",
+    "molde": "Ferramenta e modelo observado: <nome de imagem ou modelo da imagem nÃ£o confirmado>.\nObjeto: garrafa verde fosca, corpo cilÃ­ndrico, tampa preta.\nContexto: mesa clara de cafÃ©.\nLuz: janela suave. Formato: quadrado, produto inteiro, sem texto.",
+    "pronto": "o modelo ou a ausÃªncia dele estÃ¡ registrado e o pedido tem trÃªs partes",
+    "confira": "O nome da conversa nÃ£o substitui a informaÃ§Ã£o da imagem.",
+    "calma": "NÃ£o encontrou Pro? Registre a ausÃªncia e prepare o pedido. VocÃª nÃ£o precisa contratar um plano para concluir esta ficha.",
+    "q": "A conversa estÃ¡ em Pro, mas a imagem informa Nano Banana 2. O que registrar?",
     "opcoes": [
-      "Nano Banana Pro por suposição",
+      "Nano Banana Pro por suposiÃ§Ã£o",
       "Nano Banana 2",
-      "Qualquer nome disponível"
+      "Qualquer nome disponÃ­vel"
     ],
     "correta": 1,
-    "observacao": "Produto, computador e ficha são coisas distintas. Identifique o modelo no serviço antes de nomear uma geração.",
+    "observacao": "Produto, computador e ficha sÃ£o coisas distintas. Identifique o modelo no serviÃ§o antes de nomear uma geraÃ§Ã£o.",
     "tarefa": "Identifique o modelo e escreva um pedido simples",
     "resumo": [
-      "Objeto: garrafa verde fosca, cilíndrica, tampa preta",
-      "Contexto: mesa clara de café",
-      "O nome da conversa não substitui a informação da imagem."
+      "Objeto: garrafa verde fosca, cilÃ­ndrica, tampa preta",
+      "Contexto: mesa clara de cafÃ©",
+      "O nome da conversa nÃ£o substitui a informaÃ§Ã£o da imagem."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Confira a informação da imagem e registre o modelo. Separe objeto, contexto e escolhas de luz no pedido.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Confira a informaÃ§Ã£o da imagem e registre o modelo. Separe objeto, contexto e escolhas de luz no pedido.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Luz e formato: janela suave; quadrado; produto inteiro",
     "cartoes": [
       [
-        "A conversa está em Pro, mas a imagem informa Nano Banana 2. O que registrar?",
+        "A conversa estÃ¡ em Pro, mas a imagem informa Nano Banana 2. O que registrar?",
         "Nano Banana 2"
       ],
       [
         "Uma conversa chamada Pro comprova qual gerador criou a imagem?",
-        "Não. É preciso conferir o modelo informado para aquela imagem."
+        "NÃ£o. Ã‰ preciso conferir o modelo informado para aquela imagem."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "o modelo ou a ausência dele está registrado e o pedido tem três partes"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "o modelo ou a ausÃªncia dele estÃ¡ registrado e o pedido tem trÃªs partes"
       ]
     ]
   },
   {
-    "titulo": "Defina a campanha e o papel das referências",
-    "entrega": "preparar uma ficha de campanha com referências separadas",
-    "dor": "Uma campanha precisa permanecer reconhecível. Fotografias sem função podem trazer objetos e cores que não pertencem à marca.",
-    "antes": "Copie tudo destas cinco imagens e faça uma campanha bonita.",
-    "depois": "A foto A define a garrafa; B orienta apenas o ambiente. Verde, creme e ocre formam a paleta. A ideia é uma pausa cotidiana.",
+    "titulo": "Defina a campanha e o papel das referÃªncias",
+    "entrega": "preparar uma ficha de campanha com referÃªncias separadas",
+    "dor": "Uma campanha precisa permanecer reconhecÃ­vel. Fotografias sem funÃ§Ã£o podem trazer objetos e cores que nÃ£o pertencem Ã  marca.",
+    "antes": "Copie tudo destas cinco imagens e faÃ§a uma campanha bonita.",
+    "depois": "A foto A define a garrafa; B orienta apenas o ambiente. Verde, creme e ocre formam a paleta. A ideia Ã© uma pausa cotidiana.",
     "campos": [
       "Campanha: Brisa, uma pausa cotidiana",
-      "Produto fixo: verde fosco, corpo cilíndrico e tampa preta",
-      "Referência de ambiente: apenas café e luz; não copiar objetos"
+      "Produto fixo: verde fosco, corpo cilÃ­ndrico e tampa preta",
+      "ReferÃªncia de ambiente: apenas cafÃ© e luz; nÃ£o copiar objetos"
     ],
     "passos": [
-      "Nas Notas, escreva público, ideia central e as três características da garrafa. Pode usar Brisa ou um produto próprio.",
-      "Separe uma foto própria do produto e uma foto autorizada de ambiente. Sem fotos, registre o que você precisará fotografar.",
-      "Preencha o papel de cada referência. Marque como pendente qualquer arquivo que ainda não existe."
+      "Nas Notas, escreva pÃºblico, ideia central e as trÃªs caracterÃ­sticas da garrafa. Pode usar Brisa ou um produto prÃ³prio.",
+      "Separe uma foto prÃ³pria do produto e uma foto autorizada de ambiente. Sem fotos, registre o que vocÃª precisarÃ¡ fotografar.",
+      "Preencha o papel de cada referÃªncia. Marque como pendente qualquer arquivo que ainda nÃ£o existe."
     ],
-    "molde": "Marca: Brisa (exercício fictício).\nPúblico: pessoas em pausa no trabalho.\nIdeia: uma pausa cotidiana.\nProduto: verde fosco, cilíndrico, tampa preta.\nA: <arquivo ou foto pendente> → produto.\nB: <arquivo ou foto pendente> → ambiente e luz.",
-    "pronto": "a ideia, as características fixas e as referências estão declaradas",
-    "confira": "Uma referência de café não pode substituir a garrafa.",
-    "calma": "Não tem as fotos agora? Escreva produto a fotografar e ambiente a escolher. O plano deve mostrar o que falta.",
-    "q": "A foto do café contém outra garrafa. Qual orientação evita mistura?",
+    "molde": "Marca: Brisa (exercÃ­cio fictÃ­cio).\nPÃºblico: pessoas em pausa no trabalho.\nIdeia: uma pausa cotidiana.\nProduto: verde fosco, cilÃ­ndrico, tampa preta.\nA: <arquivo ou foto pendente> â†’ produto.\nB: <arquivo ou foto pendente> â†’ ambiente e luz.",
+    "pronto": "a ideia, as caracterÃ­sticas fixas e as referÃªncias estÃ£o declaradas",
+    "confira": "Uma referÃªncia de cafÃ© nÃ£o pode substituir a garrafa.",
+    "calma": "NÃ£o tem as fotos agora? Escreva produto a fotografar e ambiente a escolher. O plano deve mostrar o que falta.",
+    "q": "A foto do cafÃ© contÃ©m outra garrafa. Qual orientaÃ§Ã£o evita mistura?",
     "opcoes": [
       "Copiar todos os objetos da foto",
-      "Usar só ambiente e luz",
+      "Usar sÃ³ ambiente e luz",
       "Misturar as duas garrafas"
     ],
     "correta": 1,
     "observacao": "Fotos e amostras separadas ajudam a distinguir objeto, paleta e ambiente.",
-    "tarefa": "Defina a campanha e o papel das referências",
+    "tarefa": "Defina a campanha e o papel das referÃªncias",
     "resumo": [
       "Campanha: Brisa, uma pausa cotidiana",
-      "Produto fixo: verde fosco, corpo cilíndrico e tampa preta",
-      "Uma referência de café não pode substituir a garrafa."
+      "Produto fixo: verde fosco, corpo cilÃ­ndrico e tampa preta",
+      "Uma referÃªncia de cafÃ© nÃ£o pode substituir a garrafa."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. A foto A define a garrafa; B orienta apenas o ambiente. Verde, creme e ocre formam a paleta. A ideia é uma pausa cotidiana.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Referência de ambiente: apenas café e luz; não copiar objetos",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. A foto A define a garrafa; B orienta apenas o ambiente. Verde, creme e ocre formam a paleta. A ideia Ã© uma pausa cotidiana.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: ReferÃªncia de ambiente: apenas cafÃ© e luz; nÃ£o copiar objetos",
     "cartoes": [
       [
-        "A foto do café contém outra garrafa. Qual orientação evita mistura?",
-        "Usar só ambiente e luz"
+        "A foto do cafÃ© contÃ©m outra garrafa. Qual orientaÃ§Ã£o evita mistura?",
+        "Usar sÃ³ ambiente e luz"
       ],
       [
-        "Por que atribuir uma função a cada foto anexada?",
-        "Para evitar que uma referência de ambiente troque o produto."
+        "Por que atribuir uma funÃ§Ã£o a cada foto anexada?",
+        "Para evitar que uma referÃªncia de ambiente troque o produto."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "a ideia, as características fixas e as referências estão declaradas"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "a ideia, as caracterÃ­sticas fixas e as referÃªncias estÃ£o declaradas"
       ]
     ]
   },
   {
-    "titulo": "Faça um teste pequeno antes da campanha",
-    "entrega": "gerar uma imagem-base e comparar uma edição simples",
-    "dor": "Descobrir uma falha no início custa menos trabalho. A primeira rodada testa se o produto permanece depois de uma mudança.",
-    "antes": "Gere vinte variações e escolha depois.",
+    "titulo": "FaÃ§a um teste pequeno antes da campanha",
+    "entrega": "gerar uma imagem-base e comparar uma ediÃ§Ã£o simples",
+    "dor": "Descobrir uma falha no inÃ­cio custa menos trabalho. A primeira rodada testa se o produto permanece depois de uma mudanÃ§a.",
+    "antes": "Gere vinte variaÃ§Ãµes e escolha depois.",
     "depois": "Gere uma garrafa inteira; altere apenas o fundo da escolhida. Compare corpo, tampa e cor antes de continuar.",
     "campos": [
       "Tentativa 1: produto simples em fundo creme",
-      "Edição 1: trocar somente o fundo por cinza claro",
-      "Limite: uma geração e uma edição nesta prática"
+      "EdiÃ§Ã£o 1: trocar somente o fundo por cinza claro",
+      "Limite: uma geraÃ§Ã£o e uma ediÃ§Ã£o nesta prÃ¡tica"
     ],
     "passos": [
-      "No Gemini, escolha Criar imagem e cole somente o pedido copiável abaixo. Execute se houver acesso. Salve a imagem pelo botão de baixar e anote o modelo informado.",
-      "Na mesma conversa, envie: Preserve a garrafa e troque somente o fundo creme por cinza claro. Não mude de modelo nesta comparação. Salve a segunda imagem.",
-      "Compare corpo, tampa e cor nas duas. Nas Notas, registre o modelo e uma diferença. Se o produto mudou, não aprove a edição: guarde a base e anote o desvio."
+      "No Gemini, escolha Criar imagem e cole somente o pedido copiÃ¡vel abaixo. Execute se houver acesso. Salve a imagem pelo botÃ£o de baixar e anote o modelo informado.",
+      "Na mesma conversa, envie: Preserve a garrafa e troque somente o fundo creme por cinza claro. NÃ£o mude de modelo nesta comparaÃ§Ã£o. Salve a segunda imagem.",
+      "Compare corpo, tampa e cor nas duas. Nas Notas, registre o modelo e uma diferenÃ§a. Se o produto mudou, nÃ£o aprove a ediÃ§Ã£o: guarde a base e anote o desvio."
     ],
-    "molde": "Crie uma imagem frontal de uma garrafa verde fosca, corpo cilíndrico e tampa preta. Mostre o produto inteiro, sobre fundo creme, com luz suave. Formato quadrado. Sem texto.",
-    "pronto": "duas imagens foram salvas e uma diferença foi registrada",
-    "confira": "Um resultado bom não garante que toda edição preservará o produto.",
-    "calma": "Sem acesso ou saldo? Guarde o pedido e deixe esta prática pendente. Não marque uma geração que você não realizou.",
-    "q": "A edição mudou o fundo e a tampa. Qual decisão ajuda?",
+    "molde": "Crie uma imagem frontal de uma garrafa verde fosca, corpo cilÃ­ndrico e tampa preta. Mostre o produto inteiro, sobre fundo creme, com luz suave. Formato quadrado. Sem texto.",
+    "pronto": "duas imagens foram salvas e uma diferenÃ§a foi registrada",
+    "confira": "Um resultado bom nÃ£o garante que toda ediÃ§Ã£o preservarÃ¡ o produto.",
+    "calma": "Sem acesso ou saldo? Guarde o pedido e deixe esta prÃ¡tica pendente. NÃ£o marque uma geraÃ§Ã£o que vocÃª nÃ£o realizou.",
+    "q": "A ediÃ§Ã£o mudou o fundo e a tampa. Qual decisÃ£o ajuda?",
     "opcoes": [
       "Aprovar porque o fundo melhorou",
       "Guardar a base",
       "Gerar vinte novas campanhas"
     ],
     "correta": 1,
-    "observacao": "A segunda impressão limpa o fundo. Ao comparar de verdade, examine também o produto, não apenas a área editada.",
-    "tarefa": "Faça um teste pequeno antes da campanha",
+    "observacao": "A segunda impressÃ£o limpa o fundo. Ao comparar de verdade, examine tambÃ©m o produto, nÃ£o apenas a Ã¡rea editada.",
+    "tarefa": "FaÃ§a um teste pequeno antes da campanha",
     "resumo": [
       "Tentativa 1: produto simples em fundo creme",
-      "Edição 1: trocar somente o fundo por cinza claro",
-      "Um resultado bom não garante que toda edição preservará o produto."
+      "EdiÃ§Ã£o 1: trocar somente o fundo por cinza claro",
+      "Um resultado bom nÃ£o garante que toda ediÃ§Ã£o preservarÃ¡ o produto."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Gere uma garrafa inteira; altere apenas o fundo da escolhida. Compare corpo, tampa e cor antes de continuar.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Limite: uma geração e uma edição nesta prática",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Gere uma garrafa inteira; altere apenas o fundo da escolhida. Compare corpo, tampa e cor antes de continuar.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Limite: uma geraÃ§Ã£o e uma ediÃ§Ã£o nesta prÃ¡tica",
     "cartoes": [
       [
-        "A edição mudou o fundo e a tampa. Qual decisão ajuda?",
-        "Guardar a base e registrar que a edição mudou a tampa."
+        "A ediÃ§Ã£o mudou o fundo e a tampa. Qual decisÃ£o ajuda?",
+        "Guardar a base e registrar que a ediÃ§Ã£o mudou a tampa."
       ],
       [
-        "O que registrar quando a edição muda uma tampa que deveria permanecer?",
-        "Não aprovar a edição, preservar a base e anotar o desvio."
+        "O que registrar quando a ediÃ§Ã£o muda uma tampa que deveria permanecer?",
+        "NÃ£o aprovar a ediÃ§Ã£o, preservar a base e anotar o desvio."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "duas imagens foram salvas e uma diferença foi registrada"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "duas imagens foram salvas e uma diferenÃ§a foi registrada"
       ]
     ]
   },
   {
-    "titulo": "Produza três vistas do produto",
-    "entrega": "completar três vistas com uma referência comum",
-    "dor": "Uma peça bonita pode mostrar um produto diferente. Uma ficha transforma a aparência em critérios observáveis.",
-    "antes": "Uma garrafa de luxo em qualquer ângulo.",
-    "depois": "Frente para proporção, três quartos para volume e detalhe da tampa. Nas três, manter verde fosco, corpo cilíndrico e tampa preta.",
+    "titulo": "Produza trÃªs vistas do produto",
+    "entrega": "completar trÃªs vistas com uma referÃªncia comum",
+    "dor": "Uma peÃ§a bonita pode mostrar um produto diferente. Uma ficha transforma a aparÃªncia em critÃ©rios observÃ¡veis.",
+    "antes": "Uma garrafa de luxo em qualquer Ã¢ngulo.",
+    "depois": "Frente para proporÃ§Ã£o, trÃªs quartos para volume e detalhe da tampa. Nas trÃªs, manter verde fosco, corpo cilÃ­ndrico e tampa preta.",
     "campos": [
-      "Frente: produto inteiro e proporção do corpo",
-      "Três quartos: volume do corpo e da tampa",
+      "Frente: produto inteiro e proporÃ§Ã£o do corpo",
+      "TrÃªs quartos: volume do corpo e da tampa",
       "Detalhe: acabamento e encaixe da tampa"
     ],
     "passos": [
-      "Abra a imagem-base da aula 3. Confira se mostra o produto inteiro de frente. Se não, peça essa vista primeiro. Sem geração, fotografe um objeto próprio de frente.",
-      "Envie a base ao chat, cole o molde e salve a vista em três quartos. Reenvie a base. Peça: Mostre apenas um detalhe da tampa e do encaixe; preserve a aparência da referência.",
-      "Salve as três vistas com nomes frente, volume e detalhe. Compare com seu próprio produto. Nas Notas, registre forma, cor e tampa como atende ou revisar."
+      "Abra a imagem-base da aula 3. Confira se mostra o produto inteiro de frente. Se nÃ£o, peÃ§a essa vista primeiro. Sem geraÃ§Ã£o, fotografe um objeto prÃ³prio de frente.",
+      "Envie a base ao chat, cole o molde e salve a vista em trÃªs quartos. Reenvie a base. PeÃ§a: Mostre apenas um detalhe da tampa e do encaixe; preserve a aparÃªncia da referÃªncia.",
+      "Salve as trÃªs vistas com nomes frente, volume e detalhe. Compare com seu prÃ³prio produto. Nas Notas, registre forma, cor e tampa como atende ou revisar."
     ],
-    "molde": "Use a imagem anexada como referência. Preserve corpo, cor, acabamento e tampa exatamente como aparecem nela. Mostre a frente e parte de um lado do produto, inteiro. Fundo creme e luz suave. Sem texto.",
-    "pronto": "há frente, três quartos e detalhe salvos e conferidos",
-    "confira": "Um detalhe não substitui a imagem do produto inteiro.",
-    "calma": "Sem acesso a geração? Faça três fotos de um objeto próprio nos enquadramentos descritos. Registre que são fotografias; não atribua ao modelo.",
-    "q": "Você precisa mostrar o encaixe da tampa. Qual vista ajuda?",
+    "molde": "Use a imagem anexada como referÃªncia. Preserve corpo, cor, acabamento e tampa exatamente como aparecem nela. Mostre a frente e parte de um lado do produto, inteiro. Fundo creme e luz suave. Sem texto.",
+    "pronto": "hÃ¡ frente, trÃªs quartos e detalhe salvos e conferidos",
+    "confira": "Um detalhe nÃ£o substitui a imagem do produto inteiro.",
+    "calma": "Sem acesso a geraÃ§Ã£o? FaÃ§a trÃªs fotos de um objeto prÃ³prio nos enquadramentos descritos. Registre que sÃ£o fotografias; nÃ£o atribua ao modelo.",
+    "q": "VocÃª precisa mostrar o encaixe da tampa. Qual vista ajuda?",
     "opcoes": [
       "Detalhe da tampa",
       "Paisagem ampla com produto pequeno",
       "Produto escondido numa bolsa"
     ],
     "correta": 0,
-    "observacao": "As três fotos ilustradas mudam o enquadramento. Corpo e tampa devem continuar reconhecíveis.",
-    "tarefa": "Produza três vistas do produto",
+    "observacao": "As trÃªs fotos ilustradas mudam o enquadramento. Corpo e tampa devem continuar reconhecÃ­veis.",
+    "tarefa": "Produza trÃªs vistas do produto",
     "resumo": [
       "Frente mostra o produto inteiro.",
-      "Três quartos revela volume; detalhe mostra uma parte.",
-      "Compare as três vistas com a mesma referência."
+      "TrÃªs quartos revela volume; detalhe mostra uma parte.",
+      "Compare as trÃªs vistas com a mesma referÃªncia."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Frente para proporção, três quartos para volume e detalhe da tampa. Nas três, manter verde fosco, corpo cilíndrico e tampa preta.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Frente para proporÃ§Ã£o, trÃªs quartos para volume e detalhe da tampa. Nas trÃªs, manter verde fosco, corpo cilÃ­ndrico e tampa preta.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Detalhe: acabamento e encaixe da tampa",
     "cartoes": [
       [
-        "Você precisa mostrar o encaixe da tampa. Qual vista ajuda?",
+        "VocÃª precisa mostrar o encaixe da tampa. Qual vista ajuda?",
         "Detalhe da tampa"
       ],
       [
-        "Três nomes de arquivo garantem três vistas diferentes?",
-        "Não. As imagens precisam mostrar funções e enquadramentos distintos."
+        "TrÃªs nomes de arquivo garantem trÃªs vistas diferentes?",
+        "NÃ£o. As imagens precisam mostrar funÃ§Ãµes e enquadramentos distintos."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "há frente, três quartos e detalhe salvos e conferidos"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "hÃ¡ frente, trÃªs quartos e detalhe salvos e conferidos"
       ]
     ]
   },
   {
     "titulo": "Crie uma personagem com o produto",
-    "entrega": "gerar uma cena com personagem fictícia e revisar o contato",
-    "dor": "Uma pessoa na cena acrescenta escala e ação. Também cria novos pontos de erro: mão, apoio e contato com a garrafa.",
+    "entrega": "gerar uma cena com personagem fictÃ­cia e revisar o contato",
+    "dor": "Uma pessoa na cena acrescenta escala e aÃ§Ã£o. TambÃ©m cria novos pontos de erro: mÃ£o, apoio e contato com a garrafa.",
     "antes": "Uma pessoa bonita segura o produto de qualquer jeito.",
-    "depois": "Mulher fictícia adulta, cabelo cacheado curto e blusa ocre. Mão envolve o corpo da garrafa; tampa e dedos ficam visíveis.",
+    "depois": "Mulher fictÃ­cia adulta, cabelo cacheado curto e blusa ocre. MÃ£o envolve o corpo da garrafa; tampa e dedos ficam visÃ­veis.",
     "campos": [
-      "Identidade: adulta fictícia, cabelo cacheado curto, blusa ocre",
-      "Ação: mão envolve o corpo da garrafa",
+      "Identidade: adulta fictÃ­cia, cabelo cacheado curto, blusa ocre",
+      "AÃ§Ã£o: mÃ£o envolve o corpo da garrafa",
       "Conferir: dedos, escala e contato"
     ],
     "passos": [
-      "Abra o chat de imagem e envie a foto de produto salva na aula 3. Sem ela, use uma foto própria de garrafa inteira.",
-      "Cole o molde e gere uma cena com personagem fictícia. Salve pelo botão de baixar da imagem e anote o modelo informado.",
-      "Na imagem salva, observe mãos, escala e contato. Nas Notas, marque atende, revisar ou não é possível avaliar. Guarde como pessoa-base somente se aprovada."
+      "Abra o chat de imagem e envie a foto de produto salva na aula 3. Sem ela, use uma foto prÃ³pria de garrafa inteira.",
+      "Cole o molde e gere uma cena com personagem fictÃ­cia. Salve pelo botÃ£o de baixar da imagem e anote o modelo informado.",
+      "Na imagem salva, observe mÃ£os, escala e contato. Nas Notas, marque atende, revisar ou nÃ£o Ã© possÃ­vel avaliar. Guarde como pessoa-base somente se aprovada."
     ],
-    "molde": "Crie uma cena com mulher fictícia adulta, cabelo cacheado curto, blusa ocre, sentada num café. Ela segura naturalmente o corpo da garrafa da referência. Preserve forma, cor, acabamento e tampa da referência. Mostre mão, produto inteiro e contato plausível. Luz suave, sem texto.\nAvaliação: mãos <decisão>; escala <decisão>; contato <decisão>.\nArquivo: pessoa-base ou pessoa-revisar.",
-    "pronto": "uma cena foi salva e mãos, escala e contato foram avaliados",
-    "confira": "Mão próxima não significa contato plausível.",
-    "calma": "Sem acesso à geração, deixe esta prática pendente. Se a mão falhar, peça uma ação mais simples: garrafa apoiada na mesa, mão ao lado.",
-    "q": "A mão atravessa o corpo da garrafa. O que revisar?",
+    "molde": "Crie uma cena com mulher fictÃ­cia adulta, cabelo cacheado curto, blusa ocre, sentada num cafÃ©. Ela segura naturalmente o corpo da garrafa da referÃªncia. Preserve forma, cor, acabamento e tampa da referÃªncia. Mostre mÃ£o, produto inteiro e contato plausÃ­vel. Luz suave, sem texto.\nAvaliaÃ§Ã£o: mÃ£os <decisÃ£o>; escala <decisÃ£o>; contato <decisÃ£o>.\nArquivo: pessoa-base ou pessoa-revisar.",
+    "pronto": "uma cena foi salva e mÃ£os, escala e contato foram avaliados",
+    "confira": "MÃ£o prÃ³xima nÃ£o significa contato plausÃ­vel.",
+    "calma": "Sem acesso Ã  geraÃ§Ã£o, deixe esta prÃ¡tica pendente. Se a mÃ£o falhar, peÃ§a uma aÃ§Ã£o mais simples: garrafa apoiada na mesa, mÃ£o ao lado.",
+    "q": "A mÃ£o atravessa o corpo da garrafa. O que revisar?",
     "opcoes": [
       "A cor de toda a campanha",
-      "Contato da mão",
-      "O nome da personagem fictícia"
+      "Contato da mÃ£o",
+      "O nome da personagem fictÃ­cia"
     ],
     "correta": 1,
-    "observacao": "Observe onde os dedos tocam o produto. A posição da tampa ajuda a entender a orientação da garrafa.",
+    "observacao": "Observe onde os dedos tocam o produto. A posiÃ§Ã£o da tampa ajuda a entender a orientaÃ§Ã£o da garrafa.",
     "tarefa": "Crie uma personagem com o produto",
     "resumo": [
-      "Use uma personagem fictícia com identidade descrita.",
-      "Mãos, escala e contato precisam de conferência.",
-      "Salve a referência aprovada antes de variar."
+      "Use uma personagem fictÃ­cia com identidade descrita.",
+      "MÃ£os, escala e contato precisam de conferÃªncia.",
+      "Salve a referÃªncia aprovada antes de variar."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Mulher fictícia adulta, cabelo cacheado curto e blusa ocre. Mão envolve o corpo da garrafa; tampa e dedos ficam visíveis.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Mulher fictÃ­cia adulta, cabelo cacheado curto e blusa ocre. MÃ£o envolve o corpo da garrafa; tampa e dedos ficam visÃ­veis.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Conferir: dedos, escala e contato",
     "cartoes": [
       [
-        "A mão atravessa o corpo da garrafa. O que revisar?",
-        "Contato da mão"
+        "A mÃ£o atravessa o corpo da garrafa. O que revisar?",
+        "Contato da mÃ£o"
       ],
       [
-        "A mão está perto do produto. Isso basta para aprovar a interação?",
-        "Não. Confira contato, escala e anatomia visível."
+        "A mÃ£o estÃ¡ perto do produto. Isso basta para aprovar a interaÃ§Ã£o?",
+        "NÃ£o. Confira contato, escala e anatomia visÃ­vel."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "uma cena foi salva e mãos, escala e contato foram avaliados"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "uma cena foi salva e mÃ£os, escala e contato foram avaliados"
       ]
     ]
   },
   {
-    "titulo": "Aprove uma base antes de variar a câmera",
-    "entrega": "decidir se uma imagem pode orientar as próximas peças",
+    "titulo": "Aprove uma base antes de variar a cÃ¢mera",
+    "entrega": "decidir se uma imagem pode orientar as prÃ³ximas peÃ§as",
     "dor": "Uma base com defeito espalha o problema pela campanha. Aprovar primeiro evita repetir uma forma errada.",
-    "antes": "A imagem tem luz bonita; pode orientar a série mesmo com tampa errada.",
-    "depois": "Aprovar somente se corpo, tampa e cor atendem à ficha. Depois variar o ponto de vista preservando o produto.",
+    "antes": "A imagem tem luz bonita; pode orientar a sÃ©rie mesmo com tampa errada.",
+    "depois": "Aprovar somente se corpo, tampa e cor atendem Ã  ficha. Depois variar o ponto de vista preservando o produto.",
     "campos": [
-      "Obrigatório: corpo cilíndrico, verde fosco e tampa preta",
-      "Variação permitida: distância e altura da câmera",
+      "ObrigatÃ³rio: corpo cilÃ­ndrico, verde fosco e tampa preta",
+      "VariaÃ§Ã£o permitida: distÃ¢ncia e altura da cÃ¢mera",
       "Estado: aprovada, revisar ou pendente"
     ],
     "passos": [
-      "Abra a imagem-base salva na aula 3. Se pulou, use uma foto própria de objeto inteiro.",
-      "Compare com seu objeto real ou foto de referência. Adapte os critérios: use a cor, a forma e as partes desse objeto. Nas Notas, marque cada item e uma evidência.",
-      "Dê um estado à base. Se aprovada, descreva uma vista nova; se não, escreva uma correção antes de variar."
+      "Abra a imagem-base salva na aula 3. Se pulou, use uma foto prÃ³pria de objeto inteiro.",
+      "Compare com seu objeto real ou foto de referÃªncia. Adapte os critÃ©rios: use a cor, a forma e as partes desse objeto. Nas Notas, marque cada item e uma evidÃªncia.",
+      "DÃª um estado Ã  base. Se aprovada, descreva uma vista nova; se nÃ£o, escreva uma correÃ§Ã£o antes de variar."
     ],
-    "molde": "Base observada: <arquivo>.\nCorpo: <atende/revisar>. Cor: <atende/revisar>. Tampa: <atende/revisar>.\nEvidência: <o que vi>.\nDecisão: <aprovar, corrigir ou aguardar>.\nPróxima vista ou correção: <uma mudança>.",
-    "pronto": "a base tem uma decisão e uma evidência",
-    "confira": "Nome de lente não garante uma câmera fisicamente correta.",
-    "calma": "Não sabe usar números de lente? Descreva o efeito: produto inteiro, fundo discreto e pouco achatamento.",
+    "molde": "Base observada: <arquivo>.\nCorpo: <atende/revisar>. Cor: <atende/revisar>. Tampa: <atende/revisar>.\nEvidÃªncia: <o que vi>.\nDecisÃ£o: <aprovar, corrigir ou aguardar>.\nPrÃ³xima vista ou correÃ§Ã£o: <uma mudanÃ§a>.",
+    "pronto": "a base tem uma decisÃ£o e uma evidÃªncia",
+    "confira": "Nome de lente nÃ£o garante uma cÃ¢mera fisicamente correta.",
+    "calma": "NÃ£o sabe usar nÃºmeros de lente? Descreva o efeito: produto inteiro, fundo discreto e pouco achatamento.",
     "q": "O produto mudou, mas a luz ficou melhor. O que fazer primeiro?",
     "opcoes": [
-      "Produzir mais seis variações",
+      "Produzir mais seis variaÃ§Ãµes",
       "Corrigir a identidade",
-      "Aprovar só pela iluminação"
+      "Aprovar sÃ³ pela iluminaÃ§Ã£o"
     ],
     "correta": 1,
-    "observacao": "O objeto ao lado da foto permite conferir forma e proporção antes de produzir outras vistas.",
-    "tarefa": "Aprove uma base antes de variar a câmera",
+    "observacao": "O objeto ao lado da foto permite conferir forma e proporÃ§Ã£o antes de produzir outras vistas.",
+    "tarefa": "Aprove uma base antes de variar a cÃ¢mera",
     "resumo": [
-      "Obrigatório: corpo cilíndrico, verde fosco e tampa preta",
-      "Variação permitida: distância e altura da câmera",
-      "Nome de lente não garante uma câmera fisicamente correta."
+      "ObrigatÃ³rio: corpo cilÃ­ndrico, verde fosco e tampa preta",
+      "VariaÃ§Ã£o permitida: distÃ¢ncia e altura da cÃ¢mera",
+      "Nome de lente nÃ£o garante uma cÃ¢mera fisicamente correta."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Aprovar somente se corpo, tampa e cor atendem à ficha. Depois variar o ponto de vista preservando o produto.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Aprovar somente se corpo, tampa e cor atendem Ã  ficha. Depois variar o ponto de vista preservando o produto.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Estado: aprovada, revisar ou pendente",
     "cartoes": [
       [
@@ -296,624 +296,624 @@
         "Corrigir a identidade"
       ],
       [
-        "Uma boa iluminação compensa trocar o produto?",
-        "Não. A referência precisa preservar as características obrigatórias."
+        "Uma boa iluminaÃ§Ã£o compensa trocar o produto?",
+        "NÃ£o. A referÃªncia precisa preservar as caracterÃ­sticas obrigatÃ³rias."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "a base tem uma decisão e uma evidência"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "a base tem uma decisÃ£o e uma evidÃªncia"
       ]
     ]
   },
   {
     "titulo": "Crie um guia curto de marca",
-    "entrega": "registrar paleta, texto e restrições numa página",
-    "dor": "Uma marca perde unidade quando cada imagem usa uma cor e um tom. Um guia curto reduz decisões contraditórias.",
+    "entrega": "registrar paleta, texto e restriÃ§Ãµes numa pÃ¡gina",
+    "dor": "Uma marca perde unidade quando cada imagem usa uma cor e um tom. Um guia curto reduz decisÃµes contraditÃ³rias.",
     "antes": "Use verde exato em qualquer sombra e textura.",
-    "depois": "Use #66755B como referência de verde. Confira a aparência na imagem; aplique cores exatas em áreas sólidas no editor.",
+    "depois": "Use #66755B como referÃªncia de verde. Confira a aparÃªncia na imagem; aplique cores exatas em Ã¡reas sÃ³lidas no editor.",
     "campos": [
-      "Verde de referência: #66755B; creme: #F4EEE2",
+      "Verde de referÃªncia: #66755B; creme: #F4EEE2",
       "Apoio: ocre #A87732; texto escuro #242820",
-      "Linguagem: pausa cotidiana; sem promessas técnicas"
+      "Linguagem: pausa cotidiana; sem promessas tÃ©cnicas"
     ],
     "passos": [
-      "Copie nas Notas a paleta fornecida ou escolha três cores da sua marca. Registre o código se souber; caso contrário, uma amostra.",
-      "Defina uma frase principal: Brisa, uma pausa cotidiana. Acrescente duas restrições de conteúdo.",
-      "Observe a garrafa ilustrada e as amostras. Anote por que sombra e luz podem mudar a aparência do verde."
+      "Copie nas Notas a paleta fornecida ou escolha trÃªs cores da sua marca. Registre o cÃ³digo se souber; caso contrÃ¡rio, uma amostra.",
+      "Defina uma frase principal: Brisa, uma pausa cotidiana. Acrescente duas restriÃ§Ãµes de conteÃºdo.",
+      "Observe a garrafa ilustrada e as amostras. Anote por que sombra e luz podem mudar a aparÃªncia do verde."
     ],
-    "molde": "Marca: Brisa.\nCores: verde #66755B; creme #F4EEE2; ocre #A87732.\nFrase: Brisa, uma pausa cotidiana.\nNão afirmar: capacidade e isolamento térmico sem dados.\nTexto final: escuro sobre fundo claro; conferir no tamanho de uso.",
-    "pronto": "o guia registra cores, frase e duas restrições",
-    "confira": "Código de cor orienta; geração não garante equivalência exata.",
-    "calma": "Não precisa memorizar HEX. Copie os códigos do exemplo e guarde as amostras junto da ficha.",
-    "q": "O verde sob sombra parece diferente da amostra. Qual conclusão é adequada?",
+    "molde": "Marca: Brisa.\nCores: verde #66755B; creme #F4EEE2; ocre #A87732.\nFrase: Brisa, uma pausa cotidiana.\nNÃ£o afirmar: capacidade e isolamento tÃ©rmico sem dados.\nTexto final: escuro sobre fundo claro; conferir no tamanho de uso.",
+    "pronto": "o guia registra cores, frase e duas restriÃ§Ãµes",
+    "confira": "CÃ³digo de cor orienta; geraÃ§Ã£o nÃ£o garante equivalÃªncia exata.",
+    "calma": "NÃ£o precisa memorizar HEX. Copie os cÃ³digos do exemplo e guarde as amostras junto da ficha.",
+    "q": "O verde sob sombra parece diferente da amostra. Qual conclusÃ£o Ã© adequada?",
     "opcoes": [
       "O modelo garantiu a cor exata",
-      "Aparência precisa de conferência",
-      "Qualquer verde serve sem revisão"
+      "AparÃªncia precisa de conferÃªncia",
+      "Qualquer verde serve sem revisÃ£o"
     ],
     "correta": 1,
-    "observacao": "As amostras são áreas sólidas. A garrafa recebe luz e sombra, por isso sua aparência varia.",
+    "observacao": "As amostras sÃ£o Ã¡reas sÃ³lidas. A garrafa recebe luz e sombra, por isso sua aparÃªncia varia.",
     "tarefa": "Crie um guia curto de marca",
     "resumo": [
-      "Verde de referência: #66755B; creme: #F4EEE2",
+      "Verde de referÃªncia: #66755B; creme: #F4EEE2",
       "Apoio: ocre #A87732; texto escuro #242820",
-      "Código de cor orienta; geração não garante equivalência exata."
+      "CÃ³digo de cor orienta; geraÃ§Ã£o nÃ£o garante equivalÃªncia exata."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Use #66755B como referência de verde. Confira a aparência na imagem; aplique cores exatas em áreas sólidas no editor.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Linguagem: pausa cotidiana; sem promessas técnicas",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Use #66755B como referÃªncia de verde. Confira a aparÃªncia na imagem; aplique cores exatas em Ã¡reas sÃ³lidas no editor.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Linguagem: pausa cotidiana; sem promessas tÃ©cnicas",
     "cartoes": [
       [
-        "O verde sob sombra parece diferente da amostra. Qual conclusão é adequada?",
-        "Aparência precisa de conferência"
+        "O verde sob sombra parece diferente da amostra. Qual conclusÃ£o Ã© adequada?",
+        "AparÃªncia precisa de conferÃªncia"
       ],
       [
-        "O código de cor garante aparência idêntica em qualquer sombra?",
-        "Não. Luz e material afetam a aparência, que deve ser conferida."
+        "O cÃ³digo de cor garante aparÃªncia idÃªntica em qualquer sombra?",
+        "NÃ£o. Luz e material afetam a aparÃªncia, que deve ser conferida."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "o guia registra cores, frase e duas restrições"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "o guia registra cores, frase e duas restriÃ§Ãµes"
       ]
     ]
   },
   {
     "titulo": "Separe texto e imagem no cartaz",
-    "entrega": "planejar uma peça com uma mensagem principal e texto editável",
-    "dor": "Uma letra errada não deveria exigir gerar o produto novamente. Texto separado facilita revisão e adaptação.",
-    "antes": "Texto, foto e preço viram uma única imagem sem original.",
-    "depois": "Guardar a imagem limpa. Colocar Brisa, uma pausa cotidiana como título separado e revisar antes de exportar.",
+    "entrega": "planejar uma peÃ§a com uma mensagem principal e texto editÃ¡vel",
+    "dor": "Uma letra errada nÃ£o deveria exigir gerar o produto novamente. Texto separado facilita revisÃ£o e adaptaÃ§Ã£o.",
+    "antes": "Texto, foto e preÃ§o viram uma Ãºnica imagem sem original.",
+    "depois": "Guardar a imagem limpa. Colocar Brisa, uma pausa cotidiana como tÃ­tulo separado e revisar antes de exportar.",
     "campos": [
       "Mensagem principal: Brisa, uma pausa cotidiana",
-      "Imagem: produto inteiro e área livre acima",
-      "Texto: camada separada, revisável no editor"
+      "Imagem: produto inteiro e Ã¡rea livre acima",
+      "Texto: camada separada, revisÃ¡vel no editor"
     ],
     "passos": [
-      "Desenhe no papel um cartaz vertical com lugar para produto, título e uma linha secundária.",
-      "Escreva o título exato e indique qual texto deve chamar atenção primeiro. Use só informações fornecidas.",
-      "Anote o editor que conhece para manter texto separado. Se ainda não conhece um, escreva editor a escolher e mantenha o desenho como plano."
+      "Desenhe no papel um cartaz vertical com lugar para produto, tÃ­tulo e uma linha secundÃ¡ria.",
+      "Escreva o tÃ­tulo exato e indique qual texto deve chamar atenÃ§Ã£o primeiro. Use sÃ³ informaÃ§Ãµes fornecidas.",
+      "Anote o editor que conhece para manter texto separado. Se ainda nÃ£o conhece um, escreva editor a escolher e mantenha o desenho como plano."
     ],
-    "molde": "Título exato: Brisa, uma pausa cotidiana.\nLinha secundária: Conheça a coleção fictícia.\nImagem-base: <arquivo limpo ou pendente>.\nÁrea de título: <posição com espaço>.\nEditor: <nome ou a escolher>.\nConferir: grafia, tamanho e contraste.",
-    "pronto": "o desenho distingue imagem, título e texto secundário",
-    "confira": "Texto legível ainda precisa de revisão de grafia e informação.",
-    "calma": "Se não usa camadas, mantenha sempre a imagem sem texto. Seu plano pode ser feito no papel.",
-    "q": "Uma palavra precisa mudar. Qual organização facilita a revisão?",
+    "molde": "TÃ­tulo exato: Brisa, uma pausa cotidiana.\nLinha secundÃ¡ria: ConheÃ§a a coleÃ§Ã£o fictÃ­cia.\nImagem-base: <arquivo limpo ou pendente>.\nÃrea de tÃ­tulo: <posiÃ§Ã£o com espaÃ§o>.\nEditor: <nome ou a escolher>.\nConferir: grafia, tamanho e contraste.",
+    "pronto": "o desenho distingue imagem, tÃ­tulo e texto secundÃ¡rio",
+    "confira": "Texto legÃ­vel ainda precisa de revisÃ£o de grafia e informaÃ§Ã£o.",
+    "calma": "Se nÃ£o usa camadas, mantenha sempre a imagem sem texto. Seu plano pode ser feito no papel.",
+    "q": "Uma palavra precisa mudar. Qual organizaÃ§Ã£o facilita a revisÃ£o?",
     "opcoes": [
       "Texto em camada separada",
-      "Uma única imagem sem original",
-      "Título muito pequeno e escondido"
+      "Uma Ãºnica imagem sem original",
+      "TÃ­tulo muito pequeno e escondido"
     ],
     "correta": 0,
     "observacao": "As faixas soltas representam texto que pode ser reposicionado sem alterar a foto do produto.",
     "tarefa": "Separe texto e imagem no cartaz",
     "resumo": [
       "Mensagem principal: Brisa, uma pausa cotidiana",
-      "Imagem: produto inteiro e área livre acima",
-      "Texto legível ainda precisa de revisão de grafia e informação."
+      "Imagem: produto inteiro e Ã¡rea livre acima",
+      "Texto legÃ­vel ainda precisa de revisÃ£o de grafia e informaÃ§Ã£o."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Guardar a imagem limpa. Colocar Brisa, uma pausa cotidiana como título separado e revisar antes de exportar.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Texto: camada separada, revisável no editor",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Guardar a imagem limpa. Colocar Brisa, uma pausa cotidiana como tÃ­tulo separado e revisar antes de exportar.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Texto: camada separada, revisÃ¡vel no editor",
     "cartoes": [
       [
-        "Uma palavra precisa mudar. Qual organização facilita a revisão?",
+        "Uma palavra precisa mudar. Qual organizaÃ§Ã£o facilita a revisÃ£o?",
         "Texto em camada separada"
       ],
       [
-        "Por que guardar a imagem limpa antes de acrescentar título?",
+        "Por que guardar a imagem limpa antes de acrescentar tÃ­tulo?",
         "Para corrigir o texto sem precisar reconstruir o produto."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "o desenho distingue imagem, título e texto secundário"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "o desenho distingue imagem, tÃ­tulo e texto secundÃ¡rio"
       ]
     ]
   },
   {
-    "titulo": "Desenhe um infográfico sem inventar dados",
-    "entrega": "organizar três partes do produto com rótulos verificáveis",
-    "dor": "Setas e números dão aparência de precisão. Eles só ajudam quando apontam para informação verdadeira.",
+    "titulo": "Desenhe um infogrÃ¡fico sem inventar dados",
+    "entrega": "organizar trÃªs partes do produto com rÃ³tulos verificÃ¡veis",
+    "dor": "Setas e nÃºmeros dÃ£o aparÃªncia de precisÃ£o. Eles sÃ³ ajudam quando apontam para informaÃ§Ã£o verdadeira.",
     "antes": "Inventar 24 horas de isolamento porque o cartaz parece profissional.",
-    "depois": "Mostrar apenas tampa, corpo e base, que podem ser observados. Não afirmar capacidade nem desempenho.",
+    "depois": "Mostrar apenas tampa, corpo e base, que podem ser observados. NÃ£o afirmar capacidade nem desempenho.",
     "campos": [
-      "Rótulo 1: tampa → parte superior",
-      "Rótulo 2: corpo → área cilíndrica verde",
-      "Rótulo 3: base → apoio inferior"
+      "RÃ³tulo 1: tampa â†’ parte superior",
+      "RÃ³tulo 2: corpo â†’ Ã¡rea cilÃ­ndrica verde",
+      "RÃ³tulo 3: base â†’ apoio inferior"
     ],
     "passos": [
-      "Desenhe uma garrafa simples no papel ou abra uma foto própria nas Notas.",
-      "Trace três linhas para tampa, corpo e base. Escreva cada nome perto da linha correspondente.",
-      "Confira se as linhas chegam à parte correta. Risque dados sem fonte. No papel, escreva rótulos em tiras separadas; no editor, use textos separados da imagem."
+      "Desenhe uma garrafa simples no papel ou abra uma foto prÃ³pria nas Notas.",
+      "Trace trÃªs linhas para tampa, corpo e base. Escreva cada nome perto da linha correspondente.",
+      "Confira se as linhas chegam Ã  parte correta. Risque dados sem fonte. No papel, escreva rÃ³tulos em tiras separadas; no editor, use textos separados da imagem."
     ],
-    "molde": "Fonte: aparência observável da garrafa.\nTampa → parte superior.\nCorpo → cilindro verde.\nBase → apoio inferior.\nNão informado: capacidade, composição e isolamento.\nRevisão: cada linha aponta para a parte certa?",
-    "pronto": "três rótulos apontam corretamente e não há dado inventado",
-    "confira": "Um desenho convincente não transforma suposição em informação.",
-    "calma": "Não desenha bem? Faça um retângulo para o corpo e um pequeno bloco para a tampa. O objetivo são as relações.",
-    "q": "Qual informação pode entrar com base só na imagem do exemplo?",
+    "molde": "Fonte: aparÃªncia observÃ¡vel da garrafa.\nTampa â†’ parte superior.\nCorpo â†’ cilindro verde.\nBase â†’ apoio inferior.\nNÃ£o informado: capacidade, composiÃ§Ã£o e isolamento.\nRevisÃ£o: cada linha aponta para a parte certa?",
+    "pronto": "trÃªs rÃ³tulos apontam corretamente e nÃ£o hÃ¡ dado inventado",
+    "confira": "Um desenho convincente nÃ£o transforma suposiÃ§Ã£o em informaÃ§Ã£o.",
+    "calma": "NÃ£o desenha bem? FaÃ§a um retÃ¢ngulo para o corpo e um pequeno bloco para a tampa. O objetivo sÃ£o as relaÃ§Ãµes.",
+    "q": "Qual informaÃ§Ã£o pode entrar com base sÃ³ na imagem do exemplo?",
     "opcoes": [
-      "Mantém temperatura por 24 horas",
+      "MantÃ©m temperatura por 24 horas",
       "Tampa na parte superior",
-      "Possui certificação internacional"
+      "Possui certificaÃ§Ã£o internacional"
     ],
     "correta": 1,
-    "observacao": "Três linhas ligam rótulos vazios às partes. Na prática, você escreve somente nomes verificáveis.",
-    "tarefa": "Desenhe um infográfico sem inventar dados",
+    "observacao": "TrÃªs linhas ligam rÃ³tulos vazios Ã s partes. Na prÃ¡tica, vocÃª escreve somente nomes verificÃ¡veis.",
+    "tarefa": "Desenhe um infogrÃ¡fico sem inventar dados",
     "resumo": [
-      "Rótulo 1: tampa → parte superior",
-      "Rótulo 2: corpo → área cilíndrica verde",
-      "Um desenho convincente não transforma suposição em informação."
+      "RÃ³tulo 1: tampa â†’ parte superior",
+      "RÃ³tulo 2: corpo â†’ Ã¡rea cilÃ­ndrica verde",
+      "Um desenho convincente nÃ£o transforma suposiÃ§Ã£o em informaÃ§Ã£o."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Mostrar apenas tampa, corpo e base, que podem ser observados. Não afirmar capacidade nem desempenho.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Rótulo 3: base → apoio inferior",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Mostrar apenas tampa, corpo e base, que podem ser observados. NÃ£o afirmar capacidade nem desempenho.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: RÃ³tulo 3: base â†’ apoio inferior",
     "cartoes": [
       [
-        "Qual informação pode entrar com base só na imagem do exemplo?",
+        "Qual informaÃ§Ã£o pode entrar com base sÃ³ na imagem do exemplo?",
         "Tampa na parte superior."
       ],
       [
-        "Uma ilustração bonita comprova capacidade ou isolamento da garrafa?",
-        "Não. Esses dados precisam de uma fonte própria."
+        "Uma ilustraÃ§Ã£o bonita comprova capacidade ou isolamento da garrafa?",
+        "NÃ£o. Esses dados precisam de uma fonte prÃ³pria."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "três rótulos apontam corretamente e não há dado inventado"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "trÃªs rÃ³tulos apontam corretamente e nÃ£o hÃ¡ dado inventado"
       ]
     ]
   },
   {
     "titulo": "Produza duas cenas mantendo a personagem",
-    "entrega": "criar duas variações de ambiente com identidade conferida",
-    "dor": "Trocar tudo ao mesmo tempo impede entender o resultado. Uma pergunta dá direção à exploração.",
+    "entrega": "criar duas variaÃ§Ãµes de ambiente com identidade conferida",
+    "dor": "Trocar tudo ao mesmo tempo impede entender o resultado. Uma pergunta dÃ¡ direÃ§Ã£o Ã  exploraÃ§Ã£o.",
     "antes": "Mudar produto, pessoa, luz e fundo em cada tentativa.",
-    "depois": "Comparar café e parque mantendo garrafa, formato e tamanho aproximado. Julgar qual cenário comunica melhor uma pausa.",
+    "depois": "Comparar cafÃ© e parque mantendo garrafa, formato e tamanho aproximado. Julgar qual cenÃ¡rio comunica melhor uma pausa.",
     "campos": [
-      "Pessoa fixa: mesmo rosto, cabelo e roupa da referência",
+      "Pessoa fixa: mesmo rosto, cabelo e roupa da referÃªncia",
       "Produto fixo: mesmo corpo, verde e tampa preta",
-      "Muda: ambiente do café para parque"
+      "Muda: ambiente do cafÃ© para parque"
     ],
     "passos": [
-      "Abra pessoa-base salva na galeria após a aula 5. Sem ela, use uma foto própria autorizada de pessoa com produto. Registre as características dessa referência antes de continuar.",
-      "Envie a base ao chat, cole o pedido e salve como pessoa-cafe. Reenvie a base original e troque janela de café por banco de parque à sombra. Salve como pessoa-parque.",
-      "Compare rosto, cabelo, roupa, corpo e tampa da garrafa. Salve as aprovadas como pessoa-cafe e pessoa-parque. Marque qualquer desvio como revisão."
+      "Abra pessoa-base salva na galeria apÃ³s a aula 5. Sem ela, use uma foto prÃ³pria autorizada de pessoa com produto. Registre as caracterÃ­sticas dessa referÃªncia antes de continuar.",
+      "Envie a base ao chat, cole o pedido e salve como pessoa-cafe. Reenvie a base original e troque janela de cafÃ© por banco de parque Ã  sombra. Salve como pessoa-parque.",
+      "Compare rosto, cabelo, roupa, corpo e tampa da garrafa. Salve as aprovadas como pessoa-cafe e pessoa-parque. Marque qualquer desvio como revisÃ£o."
     ],
-    "molde": "Use a referência anexada de pessoa e produto. Preserve rosto, cabelo, blusa e garrafa. Mostre a pessoa segurando a garrafa junto de uma janela de café. Mantenha a garrafa inteira e o contato natural da mão. Sem texto.",
-    "pronto": "duas novas cenas foram salvas e comparadas à base",
-    "confira": "Ambiente diferente não autoriza trocar a identidade do produto.",
-    "calma": "Use a base da aula 5 ou uma foto própria autorizada de pessoa com produto. Preserve as características dessa foto. Sem geração disponível, mantenha as cenas pendentes.",
-    "q": "Qual comparação ajuda a entender o papel do ambiente?",
+    "molde": "Use a referÃªncia anexada de pessoa e produto. Preserve rosto, cabelo, blusa e garrafa. Mostre a pessoa segurando a garrafa junto de uma janela de cafÃ©. Mantenha a garrafa inteira e o contato natural da mÃ£o. Sem texto.",
+    "pronto": "duas novas cenas foram salvas e comparadas Ã  base",
+    "confira": "Ambiente diferente nÃ£o autoriza trocar a identidade do produto.",
+    "calma": "Use a base da aula 5 ou uma foto prÃ³pria autorizada de pessoa com produto. Preserve as caracterÃ­sticas dessa foto. Sem geraÃ§Ã£o disponÃ­vel, mantenha as cenas pendentes.",
+    "q": "Qual comparaÃ§Ã£o ajuda a entender o papel do ambiente?",
     "opcoes": [
-      "Mesma garrafa, dois cenários",
+      "Mesma garrafa, dois cenÃ¡rios",
       "Dois produtos e duas personagens",
       "Todas as escolhas trocadas juntas"
     ],
     "correta": 0,
-    "observacao": "A ilustração demonstra somente continuidade do produto entre ambientes. Na sua prática, compare também rosto, cabelo, blusa e mãos da personagem.",
+    "observacao": "A ilustraÃ§Ã£o demonstra somente continuidade do produto entre ambientes. Na sua prÃ¡tica, compare tambÃ©m rosto, cabelo, blusa e mÃ£os da personagem.",
     "tarefa": "Produza duas cenas mantendo a personagem",
     "resumo": [
-      "Volte à base aprovada em cada nova variação.",
-      "Troque o cenário e preserve pessoa e produto.",
+      "Volte Ã  base aprovada em cada nova variaÃ§Ã£o.",
+      "Troque o cenÃ¡rio e preserve pessoa e produto.",
       "Compare rosto, roupa e garrafa antes de aprovar."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Comparar café e parque mantendo garrafa, formato e tamanho aproximado. Julgar qual cenário comunica melhor uma pausa.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Comparar cafÃ© e parque mantendo garrafa, formato e tamanho aproximado. Julgar qual cenÃ¡rio comunica melhor uma pausa.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Fixo: garrafa, formato e tamanho aproximado",
     "cartoes": [
       [
-        "Qual comparação ajuda a entender o papel do ambiente?",
-        "Mesma garrafa, dois cenários"
+        "Qual comparaÃ§Ã£o ajuda a entender o papel do ambiente?",
+        "Mesma garrafa, dois cenÃ¡rios"
       ],
       [
         "Como impedir que uma nova cena acumule desvios da anterior?",
         "Reenviar a base aprovada e preservar explicitamente pessoa e produto."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "duas novas cenas foram salvas e comparadas à base"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "duas novas cenas foram salvas e comparadas Ã  base"
       ]
     ]
   },
   {
     "titulo": "Planeje seis cenas antes de produzir",
-    "entrega": "montar uma sequência de seis quadros com funções distintas",
-    "dor": "Seis imagens bonitas não formam necessariamente uma história. Cada quadro precisa acrescentar informação.",
-    "antes": "Seis closes iguais da garrafa, sem ação nem mudança de informação.",
-    "depois": "Ambiente, escolha, uso, detalhe, conjunto e encerramento. Uma função por quadro, sempre com o mesmo produto.",
+    "entrega": "montar uma sequÃªncia de seis quadros com funÃ§Ãµes distintas",
+    "dor": "Seis imagens bonitas nÃ£o formam necessariamente uma histÃ³ria. Cada quadro precisa acrescentar informaÃ§Ã£o.",
+    "antes": "Seis closes iguais da garrafa, sem aÃ§Ã£o nem mudanÃ§a de informaÃ§Ã£o.",
+    "depois": "Ambiente, escolha, uso, detalhe, conjunto e encerramento. Uma funÃ§Ã£o por quadro, sempre com o mesmo produto.",
     "campos": [
       "1 ambiente; 2 escolha; 3 uso",
       "4 detalhe; 5 conjunto; 6 encerramento",
-      "Fixo: verde fosco, corpo cilíndrico e tampa preta"
+      "Fixo: verde fosco, corpo cilÃ­ndrico e tampa preta"
     ],
     "passos": [
-      "Dobre uma folha em seis partes ou faça seis linhas nas Notas.",
-      "Preencha seis linhas: café; mão escolhe garrafa; pessoa segura; detalhe da tampa; garrafa com bolsa; produto com área para título.",
-      "Em cada linha, escreva função, enquadramento e referência. Use o molde como exemplo. Se dois quadros repetirem informação, mude a função de um deles."
+      "Dobre uma folha em seis partes ou faÃ§a seis linhas nas Notas.",
+      "Preencha seis linhas: cafÃ©; mÃ£o escolhe garrafa; pessoa segura; detalhe da tampa; garrafa com bolsa; produto com Ã¡rea para tÃ­tulo.",
+      "Em cada linha, escreva funÃ§Ã£o, enquadramento e referÃªncia. Use o molde como exemplo. Se dois quadros repetirem informaÃ§Ã£o, mude a funÃ§Ã£o de um deles."
     ],
-    "molde": "1 Café: situar o lugar; plano amplo.\n2 Escolha: mão se aproxima; produto inteiro.\n3 Uso: pessoa segura; mostra escala.\n4 Detalhe: tampa; aproximação.\n5 Conjunto: garrafa e bolsa; contexto.\n6 Encerramento: produto inteiro e espaço para título.\nReferência fixa: <foto do produto>.",
-    "pronto": "os seis quadros têm função e enquadramento",
-    "confira": "O planejamento não equivale a seis arquivos finais prontos.",
-    "calma": "Não precisa desenhar pessoas. Use formas simples e frases sobre ação e recorte.",
+    "molde": "1 CafÃ©: situar o lugar; plano amplo.\n2 Escolha: mÃ£o se aproxima; produto inteiro.\n3 Uso: pessoa segura; mostra escala.\n4 Detalhe: tampa; aproximaÃ§Ã£o.\n5 Conjunto: garrafa e bolsa; contexto.\n6 Encerramento: produto inteiro e espaÃ§o para tÃ­tulo.\nReferÃªncia fixa: <foto do produto>.",
+    "pronto": "os seis quadros tÃªm funÃ§Ã£o e enquadramento",
+    "confira": "O planejamento nÃ£o equivale a seis arquivos finais prontos.",
+    "calma": "NÃ£o precisa desenhar pessoas. Use formas simples e frases sobre aÃ§Ã£o e recorte.",
     "q": "Dois quadros mostram o mesmo detalhe. O que revisar?",
     "opcoes": [
-      "A função de um quadro",
+      "A funÃ§Ã£o de um quadro",
       "Todas as cores da marca",
       "O nome das pastas de entrega"
     ],
     "correta": 0,
-    "observacao": "Os cartões representam etapas da sequência. A produção final acontece depois, uma peça por vez.",
+    "observacao": "Os cartÃµes representam etapas da sequÃªncia. A produÃ§Ã£o final acontece depois, uma peÃ§a por vez.",
     "tarefa": "Planeje seis cenas antes de produzir",
     "resumo": [
       "1 ambiente; 2 escolha; 3 uso",
       "4 detalhe; 5 conjunto; 6 encerramento",
-      "O planejamento não equivale a seis arquivos finais prontos."
+      "O planejamento nÃ£o equivale a seis arquivos finais prontos."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Ambiente, escolha, uso, detalhe, conjunto e encerramento. Uma função por quadro, sempre com o mesmo produto.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Fixo: verde fosco, corpo cilíndrico e tampa preta",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Ambiente, escolha, uso, detalhe, conjunto e encerramento. Uma funÃ§Ã£o por quadro, sempre com o mesmo produto.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Fixo: verde fosco, corpo cilÃ­ndrico e tampa preta",
     "cartoes": [
       [
         "Dois quadros mostram o mesmo detalhe. O que revisar?",
-        "A função de um quadro"
+        "A funÃ§Ã£o de um quadro"
       ],
       [
-        "O que fazer quando dois quadros repetem a mesma informação?",
-        "Mudar a função ou o enquadramento de um deles."
+        "O que fazer quando dois quadros repetem a mesma informaÃ§Ã£o?",
+        "Mudar a funÃ§Ã£o ou o enquadramento de um deles."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "os seis quadros têm função e enquadramento"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "os seis quadros tÃªm funÃ§Ã£o e enquadramento"
       ]
     ]
   },
   {
-    "titulo": "Revise a sequência antes de ampliar",
-    "entrega": "identificar um desvio e escolher a próxima correção",
-    "dor": "Um quadro pequeno pode esconder defeitos. Ampliar a colagem não recupera detalhes confiáveis.",
+    "titulo": "Revise a sequÃªncia antes de ampliar",
+    "entrega": "identificar um desvio e escolher a prÃ³xima correÃ§Ã£o",
+    "dor": "Um quadro pequeno pode esconder defeitos. Ampliar a colagem nÃ£o recupera detalhes confiÃ¡veis.",
     "antes": "Recortar um quadrinho e chamar o arquivo ampliado de foto final.",
-    "depois": "Usar o quadro como referência. Produzir a peça individualmente e conferir produto, personagem e tamanho de uso.",
+    "depois": "Usar o quadro como referÃªncia. Produzir a peÃ§a individualmente e conferir produto, personagem e tamanho de uso.",
     "campos": [
       "Continuidade: mesmo produto e figurino",
       "Detalhe: observar no tamanho previsto",
-      "Decisão: produzir individualmente ou corrigir referência"
+      "DecisÃ£o: produzir individualmente ou corrigir referÃªncia"
     ],
     "passos": [
-      "Observe as três impressões da ilustração ou três imagens suas do mesmo produto.",
-      "Nas Notas, marque qual peça foge da identidade. No exemplo, procure mudança de cor da garrafa e da tampa.",
-      "Escreva uma correção e indique o que deve ficar igual. Registre que um quadro de planejamento ainda precisa de produção própria."
+      "Observe as trÃªs impressÃµes da ilustraÃ§Ã£o ou trÃªs imagens suas do mesmo produto.",
+      "Nas Notas, marque qual peÃ§a foge da identidade. No exemplo, procure mudanÃ§a de cor da garrafa e da tampa.",
+      "Escreva uma correÃ§Ã£o e indique o que deve ficar igual. Registre que um quadro de planejamento ainda precisa de produÃ§Ã£o prÃ³pria."
     ],
-    "molde": "Peça observada: <qual>.\nDesvio: <característica>.\nCorreção: <uma mudança>.\nPreservar: <demais características>.\nDestino final e dimensão: <conhecidos ou a confirmar>.\nEstado: planejamento, revisão ou final.",
-    "pronto": "um desvio tem correção e estado declarado",
+    "molde": "PeÃ§a observada: <qual>.\nDesvio: <caracterÃ­stica>.\nCorreÃ§Ã£o: <uma mudanÃ§a>.\nPreservar: <demais caracterÃ­sticas>.\nDestino final e dimensÃ£o: <conhecidos ou a confirmar>.\nEstado: planejamento, revisÃ£o ou final.",
+    "pronto": "um desvio tem correÃ§Ã£o e estado declarado",
     "confira": "Uma imagem ampliada pode inventar textura em vez de recuperar detalhe.",
-    "calma": "Não consegue ver a tampa? Registre detalhe insuficiente e peça um recorte mais próximo antes de aprovar.",
+    "calma": "NÃ£o consegue ver a tampa? Registre detalhe insuficiente e peÃ§a um recorte mais prÃ³ximo antes de aprovar.",
     "q": "O quadro fica borrado ao ampliar. O que fazer?",
     "opcoes": [
-      "Chamar o borrão de textura premium",
-      "Produzir a peça individualmente",
-      "Repetir a ampliação indefinidamente"
+      "Chamar o borrÃ£o de textura premium",
+      "Produzir a peÃ§a individualmente",
+      "Repetir a ampliaÃ§Ã£o indefinidamente"
     ],
     "correta": 1,
     "observacao": "A garrafa azul com tampa vermelha destoa. A cor precisa ser restaurada sem trocar a forma.",
-    "tarefa": "Revise a sequência antes de ampliar",
+    "tarefa": "Revise a sequÃªncia antes de ampliar",
     "resumo": [
       "Continuidade: mesmo produto e figurino",
       "Detalhe: observar no tamanho previsto",
       "Uma imagem ampliada pode inventar textura em vez de recuperar detalhe."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Usar o quadro como referência. Produzir a peça individualmente e conferir produto, personagem e tamanho de uso.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Decisão: produzir individualmente ou corrigir referência",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Usar o quadro como referÃªncia. Produzir a peÃ§a individualmente e conferir produto, personagem e tamanho de uso.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: DecisÃ£o: produzir individualmente ou corrigir referÃªncia",
     "cartoes": [
       [
         "O quadro fica borrado ao ampliar. O que fazer?",
-        "Produzir a peça individualmente"
+        "Produzir a peÃ§a individualmente"
       ],
       [
-        "Recortar e ampliar um quadro cria detalhe confiável?",
-        "Não. Use-o como referência e produza a peça final separadamente."
+        "Recortar e ampliar um quadro cria detalhe confiÃ¡vel?",
+        "NÃ£o. Use-o como referÃªncia e produza a peÃ§a final separadamente."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "um desvio tem correção e estado declarado"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "um desvio tem correÃ§Ã£o e estado declarado"
       ]
     ]
   },
   {
     "titulo": "Edite uma coisa e compare com a base",
-    "entrega": "escrever uma edição curta e avaliar mudança indesejada",
-    "dor": "Edições sucessivas podem afastar o produto da referência. Voltar à base ajuda a perceber o desvio.",
-    "antes": "Melhore tudo e continue editando a última tentativa sem comparar.",
-    "depois": "Troque só a parede por cinza claro. Preserve corpo, tampa e enquadramento. Compare com a primeira base aprovada.",
+    "entrega": "escrever uma ediÃ§Ã£o curta e avaliar mudanÃ§a indesejada",
+    "dor": "EdiÃ§Ãµes sucessivas podem afastar o produto da referÃªncia. Voltar Ã  base ajuda a perceber o desvio.",
+    "antes": "Melhore tudo e continue editando a Ãºltima tentativa sem comparar.",
+    "depois": "Troque sÃ³ a parede por cinza claro. Preserve corpo, tampa e enquadramento. Compare com a primeira base aprovada.",
     "campos": [
       "Alterar: apenas a cor da parede",
       "Preservar: produto e enquadramento",
-      "Comparar: original aprovado e nova versão"
+      "Comparar: original aprovado e nova versÃ£o"
     ],
     "passos": [
-      "Abra uma imagem sua ou use as impressões ilustradas. Escreva uma única mudança de fundo.",
-      "Copie o pedido. Nas Notas, descreva corpo, cor e tampa do produto escolhido. Se executar, guarde o original antes e salve a edição como nova cópia.",
-      "Se editou, compare seus dois arquivos. Sem execução, compare as duas impressões ilustradas. Registre um item preservado e outro a inspecionar; use não avaliável para detalhes pequenos."
+      "Abra uma imagem sua ou use as impressÃµes ilustradas. Escreva uma Ãºnica mudanÃ§a de fundo.",
+      "Copie o pedido. Nas Notas, descreva corpo, cor e tampa do produto escolhido. Se executar, guarde o original antes e salve a ediÃ§Ã£o como nova cÃ³pia.",
+      "Se editou, compare seus dois arquivos. Sem execuÃ§Ã£o, compare as duas impressÃµes ilustradas. Registre um item preservado e outro a inspecionar; use nÃ£o avaliÃ¡vel para detalhes pequenos."
     ],
-    "molde": "Edite a imagem-base anexada: troque somente a parede por cinza claro. Preserve o produto exatamente como aparece na referência, incluindo corpo, cor, tampa e enquadramento. Não altere a mão nem sua posição.",
-    "pronto": "o pedido limita a mudança e a comparação tem evidência",
-    "confira": "Compare com a base aprovada, não só com a tentativa anterior.",
-    "calma": "Se a ferramenta desviar repetidamente, volte ao original e simplifique. Guarde a tentativa como revisão, não como final.",
-    "q": "A quinta edição parece outro produto. Qual referência usar?",
+    "molde": "Edite a imagem-base anexada: troque somente a parede por cinza claro. Preserve o produto exatamente como aparece na referÃªncia, incluindo corpo, cor, tampa e enquadramento. NÃ£o altere a mÃ£o nem sua posiÃ§Ã£o.",
+    "pronto": "o pedido limita a mudanÃ§a e a comparaÃ§Ã£o tem evidÃªncia",
+    "confira": "Compare com a base aprovada, nÃ£o sÃ³ com a tentativa anterior.",
+    "calma": "Se a ferramenta desviar repetidamente, volte ao original e simplifique. Guarde a tentativa como revisÃ£o, nÃ£o como final.",
+    "q": "A quinta ediÃ§Ã£o parece outro produto. Qual referÃªncia usar?",
     "opcoes": [
       "A base aprovada",
       "Somente a quarta tentativa",
-      "Uma imagem aleatória da internet"
+      "Uma imagem aleatÃ³ria da internet"
     ],
     "correta": 0,
-    "observacao": "As impressões ilustram uma mudança de parede. Corpo, mão e tampa também precisam ser conferidos.",
+    "observacao": "As impressÃµes ilustram uma mudanÃ§a de parede. Corpo, mÃ£o e tampa tambÃ©m precisam ser conferidos.",
     "tarefa": "Edite uma coisa e compare com a base",
     "resumo": [
       "Alterar: apenas a cor da parede",
       "Preservar: produto e enquadramento",
-      "Compare com a base aprovada, não só com a tentativa anterior."
+      "Compare com a base aprovada, nÃ£o sÃ³ com a tentativa anterior."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Troque só a parede por cinza claro. Preserve corpo, tampa e enquadramento. Compare com a primeira base aprovada.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Comparar: original aprovado e nova versão",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Troque sÃ³ a parede por cinza claro. Preserve corpo, tampa e enquadramento. Compare com a primeira base aprovada.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Comparar: original aprovado e nova versÃ£o",
     "cartoes": [
       [
-        "A quinta edição parece outro produto. Qual referência usar?",
+        "A quinta ediÃ§Ã£o parece outro produto. Qual referÃªncia usar?",
         "A base aprovada"
       ],
       [
-        "Qual comparação detecta perda de identidade ao longo de edições?",
+        "Qual comparaÃ§Ã£o detecta perda de identidade ao longo de ediÃ§Ãµes?",
         "Comparar cada resultado com a base aprovada."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "o pedido limita a mudança e a comparação tem evidência"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "o pedido limita a mudanÃ§a e a comparaÃ§Ã£o tem evidÃªncia"
       ]
     ]
   },
   {
-    "titulo": "Combine referências sem misturar identidades",
+    "titulo": "Combine referÃªncias sem misturar identidades",
     "entrega": "associar pessoa, produto e ambiente a arquivos distintos",
-    "dor": "O gerador pode copiar detalhes da referência errada. Declarar cada papel torna a revisão mais objetiva.",
-    "antes": "Misture estas três imagens e use tudo de todas elas.",
-    "depois": "A define a personagem fictícia; B define a garrafa; C orienta só o café. Não copiar outro produto ou outra roupa do ambiente.",
+    "dor": "O gerador pode copiar detalhes da referÃªncia errada. Declarar cada papel torna a revisÃ£o mais objetiva.",
+    "antes": "Misture estas trÃªs imagens e use tudo de todas elas.",
+    "depois": "A define a personagem fictÃ­cia; B define a garrafa; C orienta sÃ³ o cafÃ©. NÃ£o copiar outro produto ou outra roupa do ambiente.",
     "campos": [
       "A: personagem; rosto, cabelo e roupa",
       "B: produto; forma, cor e tampa",
-      "C: ambiente; café e luz"
+      "C: ambiente; cafÃ© e luz"
     ],
     "passos": [
-      "Separe três imagens próprias ou autorizadas; se faltarem, desenhe três caixas com o conteúdo esperado.",
+      "Separe trÃªs imagens prÃ³prias ou autorizadas; se faltarem, desenhe trÃªs caixas com o conteÃºdo esperado.",
       "Nas Notas, nomeie A, B e C e escreva o que aproveitar e ignorar de cada uma.",
-      "Observe a composição ilustrada. Confira se produto, pessoa e ambiente seguem os papéis; marque o que não consegue avaliar."
+      "Observe a composiÃ§Ã£o ilustrada. Confira se produto, pessoa e ambiente seguem os papÃ©is; marque o que nÃ£o consegue avaliar."
     ],
-    "molde": "A: <arquivo ou pendente> → pessoa fictícia; ignorar cenário.\nB: <arquivo ou pendente> → garrafa; ignorar fundo.\nC: <arquivo ou pendente> → café e luz; ignorar pessoas e produtos.\nConferir: rosto, roupa, tampa e cor.\nEstado: plano ou execução.",
-    "pronto": "cada referência tem um papel e um limite",
+    "molde": "A: <arquivo ou pendente> â†’ pessoa fictÃ­cia; ignorar cenÃ¡rio.\nB: <arquivo ou pendente> â†’ garrafa; ignorar fundo.\nC: <arquivo ou pendente> â†’ cafÃ© e luz; ignorar pessoas e produtos.\nConferir: rosto, roupa, tampa e cor.\nEstado: plano ou execuÃ§Ã£o.",
+    "pronto": "cada referÃªncia tem um papel e um limite",
     "confira": "Adapte A, B e C aos nomes que a sua interface mostrar.",
-    "calma": "Sua conta aceita só uma referência? Trabalhe com o produto primeiro. Descreva o ambiente em texto e registre a limitação.",
-    "q": "A foto do café trocou a roupa da personagem. Qual limite faltou?",
+    "calma": "Sua conta aceita sÃ³ uma referÃªncia? Trabalhe com o produto primeiro. Descreva o ambiente em texto e registre a limitaÃ§Ã£o.",
+    "q": "A foto do cafÃ© trocou a roupa da personagem. Qual limite faltou?",
     "opcoes": [
-      "C orienta só ambiente e luz",
-      "Copiar tudo da foto do café",
-      "Adicionar mais referências sem função"
+      "C orienta sÃ³ ambiente e luz",
+      "Copiar tudo da foto do cafÃ©",
+      "Adicionar mais referÃªncias sem funÃ§Ã£o"
     ],
     "correta": 0,
-    "observacao": "As referências separadas mostram pessoa, produto e lugar. A composição final precisa respeitar essas responsabilidades.",
-    "tarefa": "Combine referências sem misturar identidades",
+    "observacao": "As referÃªncias separadas mostram pessoa, produto e lugar. A composiÃ§Ã£o final precisa respeitar essas responsabilidades.",
+    "tarefa": "Combine referÃªncias sem misturar identidades",
     "resumo": [
       "A: personagem; rosto, cabelo e roupa",
       "B: produto; forma, cor e tampa",
       "Adapte A, B e C aos nomes que a sua interface mostrar."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. A define a personagem fictícia; B define a garrafa; C orienta só o café. Não copiar outro produto ou outra roupa do ambiente.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: C: ambiente; café e luz",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. A define a personagem fictÃ­cia; B define a garrafa; C orienta sÃ³ o cafÃ©. NÃ£o copiar outro produto ou outra roupa do ambiente.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: C: ambiente; cafÃ© e luz",
     "cartoes": [
       [
-        "A foto do café trocou a roupa da personagem. Qual limite faltou?",
-        "C orienta só ambiente e luz"
+        "A foto do cafÃ© trocou a roupa da personagem. Qual limite faltou?",
+        "C orienta sÃ³ ambiente e luz"
       ],
       [
-        "Uma referência de café deve decidir o rosto da personagem?",
-        "Não. O rosto vem da referência de pessoa."
+        "Uma referÃªncia de cafÃ© deve decidir o rosto da personagem?",
+        "NÃ£o. O rosto vem da referÃªncia de pessoa."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "cada referência tem um papel e um limite"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "cada referÃªncia tem um papel e um limite"
       ]
     ]
   },
   {
-    "titulo": "Adapte o formato preservando a peça",
+    "titulo": "Adapte o formato preservando a peÃ§a",
     "entrega": "planejar um formato vertical sem deformar o produto",
-    "dor": "Esticar uma imagem altera proporções. Adaptar exige decidir o que recortar, mover ou expandir.",
-    "antes": "Esticar o quadrado até a garrafa ficar alta e estreita.",
-    "depois": "Manter a proporção do produto e acrescentar fundo. Reorganizar título e espaço livre no formato vertical.",
+    "dor": "Esticar uma imagem altera proporÃ§Ãµes. Adaptar exige decidir o que recortar, mover ou expandir.",
+    "antes": "Esticar o quadrado atÃ© a garrafa ficar alta e estreita.",
+    "depois": "Manter a proporÃ§Ã£o do produto e acrescentar fundo. Reorganizar tÃ­tulo e espaÃ§o livre no formato vertical.",
     "campos": [
-      "Preservar: proporção e identidade da garrafa",
-      "Mudar: área de fundo e lugar do texto",
+      "Preservar: proporÃ§Ã£o e identidade da garrafa",
+      "Mudar: Ã¡rea de fundo e lugar do texto",
       "Guardar: base limpa e arquivo com texto separado"
     ],
     "passos": [
-      "Desenhe um quadrado e um retângulo vertical no papel. Coloque a mesma forma de garrafa em ambos.",
-      "Marque onde entra o título e qual fundo precisa crescer. Não estique a forma do produto.",
-      "Liste os arquivos que serão guardados: base sem texto, composição editável e cópia final. Se não tem editor, registre o plano."
+      "Desenhe um quadrado e um retÃ¢ngulo vertical no papel. Coloque a mesma forma de garrafa em ambos.",
+      "Marque onde entra o tÃ­tulo e qual fundo precisa crescer. NÃ£o estique a forma do produto.",
+      "Liste os arquivos que serÃ£o guardados: base sem texto, composiÃ§Ã£o editÃ¡vel e cÃ³pia final. Se nÃ£o tem editor, registre o plano."
     ],
-    "molde": "Formato inicial: quadrado. Destino: vertical.\nProduto: manter forma e proporção.\nFundo: ampliar acima e abaixo se necessário.\nTexto: reorganizar numa camada separada.\nGuardar: base, editável e final.\nConferir: contorno, espaço e leitura.",
-    "pronto": "o plano vertical preserva o produto e prevê os arquivos",
-    "confira": "Redimensionar o arquivo não reorganiza a composição por você.",
-    "calma": "Sem editor agora, compare os dois desenhos. A prática pede o plano de adaptação, não uma exportação fictícia.",
-    "q": "A garrafa ficou estreita na versão vertical. O que aconteceu?",
+    "molde": "Formato inicial: quadrado. Destino: vertical.\nProduto: manter forma e proporÃ§Ã£o.\nFundo: ampliar acima e abaixo se necessÃ¡rio.\nTexto: reorganizar numa camada separada.\nGuardar: base, editÃ¡vel e final.\nConferir: contorno, espaÃ§o e leitura.",
+    "pronto": "o plano vertical preserva o produto e prevÃª os arquivos",
+    "confira": "Redimensionar o arquivo nÃ£o reorganiza a composiÃ§Ã£o por vocÃª.",
+    "calma": "Sem editor agora, compare os dois desenhos. A prÃ¡tica pede o plano de adaptaÃ§Ã£o, nÃ£o uma exportaÃ§Ã£o fictÃ­cia.",
+    "q": "A garrafa ficou estreita na versÃ£o vertical. O que aconteceu?",
     "opcoes": [
       "O produto foi deformado",
-      "Só o nome do arquivo mudou",
+      "SÃ³ o nome do arquivo mudou",
       "A identidade ficou automaticamente melhor"
     ],
     "correta": 0,
-    "observacao": "As duas molduras mudam de formato. A garrafa mantém suas proporções; o espaço ao redor é reorganizado.",
-    "tarefa": "Adapte o formato preservando a peça",
+    "observacao": "As duas molduras mudam de formato. A garrafa mantÃ©m suas proporÃ§Ãµes; o espaÃ§o ao redor Ã© reorganizado.",
+    "tarefa": "Adapte o formato preservando a peÃ§a",
     "resumo": [
-      "Preservar: proporção e identidade da garrafa",
-      "Mudar: área de fundo e lugar do texto",
-      "Redimensionar o arquivo não reorganiza a composição por você."
+      "Preservar: proporÃ§Ã£o e identidade da garrafa",
+      "Mudar: Ã¡rea de fundo e lugar do texto",
+      "Redimensionar o arquivo nÃ£o reorganiza a composiÃ§Ã£o por vocÃª."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Manter a proporção do produto e acrescentar fundo. Reorganizar título e espaço livre no formato vertical.",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Manter a proporÃ§Ã£o do produto e acrescentar fundo. Reorganizar tÃ­tulo e espaÃ§o livre no formato vertical.",
     "ex2": "Renato, comerciante, confere a encomenda pelo registro: Guardar: base limpa e arquivo com texto separado",
     "cartoes": [
       [
-        "A garrafa ficou estreita na versão vertical. O que aconteceu?",
+        "A garrafa ficou estreita na versÃ£o vertical. O que aconteceu?",
         "O produto foi deformado"
       ],
       [
         "Como mudar um quadrado para vertical sem deformar o produto?",
-        "Reorganizar o espaço e o fundo preservando as proporções."
+        "Reorganizar o espaÃ§o e o fundo preservando as proporÃ§Ãµes."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "o plano vertical preserva o produto e prevê os arquivos"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "o plano vertical preserva o produto e prevÃª os arquivos"
       ]
     ]
   },
   {
-    "titulo": "Faça o inventário da campanha",
-    "entrega": "identificar peças prontas, revisões e entregas faltantes",
-    "dor": "Sem uma lista, arquivos repetidos parecem progresso. Inventário separa entrega real de planejamento.",
-    "antes": "Contar a mesma foto com três nomes como três vistas diferentes.",
-    "depois": "Conferir função e identidade: três vistas do produto, três cenas com pessoa, cartaz, infográfico e planejamento de seis quadros.",
+    "titulo": "FaÃ§a o inventÃ¡rio da campanha",
+    "entrega": "identificar peÃ§as prontas, revisÃµes e entregas faltantes",
+    "dor": "Sem uma lista, arquivos repetidos parecem progresso. InventÃ¡rio separa entrega real de planejamento.",
+    "antes": "Contar a mesma foto com trÃªs nomes como trÃªs vistas diferentes.",
+    "depois": "Conferir funÃ§Ã£o e identidade: trÃªs vistas do produto, trÃªs cenas com pessoa, cartaz, infogrÃ¡fico e planejamento de seis quadros.",
     "campos": [
-      "Produto: três vistas diferentes",
-      "Personagem: três cenas distintas com a mesma identidade",
-      "Composição: cartaz, infográfico e sequência de seis quadros"
+      "Produto: trÃªs vistas diferentes",
+      "Personagem: trÃªs cenas distintas com a mesma identidade",
+      "ComposiÃ§Ã£o: cartaz, infogrÃ¡fico e sequÃªncia de seis quadros"
     ],
     "passos": [
-      "Nas Notas, crie nove linhas: produto 1–3, pessoa 1–3, cartaz, infográfico e sequência.",
-      "Associe cada linha a um arquivo real. Sem produção, marque pendente; desenho de sequência pode ser planejamento identificado.",
-      "Escolha uma peça que exige correção de identidade ou uma peça faltante. Registre a próxima ação concreta."
+      "Nas Notas, crie nove linhas: produto 1â€“3, pessoa 1â€“3, cartaz, infogrÃ¡fico e sequÃªncia.",
+      "Associe cada linha a um arquivo real. Sem produÃ§Ã£o, marque pendente; desenho de sequÃªncia pode ser planejamento identificado.",
+      "Escolha uma peÃ§a que exige correÃ§Ã£o de identidade ou uma peÃ§a faltante. Registre a prÃ³xima aÃ§Ã£o concreta."
     ],
-    "molde": "Entrega | arquivo | estado\nProduto 1, 2, 3: <arquivos ou pendentes>.\nPessoa 1, 2, 3: <arquivos ou pendentes>.\nCartaz: <arquivo/pendente>.\nInfográfico: <arquivo/pendente>.\nSequência: <planejamento de seis quadros/pendente>.\nPróxima ação: <uma tarefa>.",
-    "pronto": "nove entregas têm arquivo ou pendência e há uma próxima ação",
+    "molde": "Entrega | arquivo | estado\nProduto 1, 2, 3: <arquivos ou pendentes>.\nPessoa 1, 2, 3: <arquivos ou pendentes>.\nCartaz: <arquivo/pendente>.\nInfogrÃ¡fico: <arquivo/pendente>.\nSequÃªncia: <planejamento de seis quadros/pendente>.\nPrÃ³xima aÃ§Ã£o: <uma tarefa>.",
+    "pronto": "nove entregas tÃªm arquivo ou pendÃªncia e hÃ¡ uma prÃ³xima aÃ§Ã£o",
     "confira": "Planejamento e arquivo final devem ter estados diferentes.",
-    "calma": "Não produziu tudo? O inventário serve justamente para mostrar o que falta. Não marque a campanha como entregue.",
-    "q": "Duas cópias iguais receberam nomes diferentes. Quantas peças distintas há?",
+    "calma": "NÃ£o produziu tudo? O inventÃ¡rio serve justamente para mostrar o que falta. NÃ£o marque a campanha como entregue.",
+    "q": "Duas cÃ³pias iguais receberam nomes diferentes. Quantas peÃ§as distintas hÃ¡?",
     "opcoes": [
-      "Uma peça",
-      "Duas peças completas diferentes",
-      "Três entregas independentes"
+      "Uma peÃ§a",
+      "Duas peÃ§as completas diferentes",
+      "TrÃªs entregas independentes"
     ],
     "correta": 0,
-    "observacao": "As peças são agrupadas pela função. Cada linha do inventário precisa de arquivo ou pendência identificada.",
-    "tarefa": "Faça o inventário da campanha",
+    "observacao": "As peÃ§as sÃ£o agrupadas pela funÃ§Ã£o. Cada linha do inventÃ¡rio precisa de arquivo ou pendÃªncia identificada.",
+    "tarefa": "FaÃ§a o inventÃ¡rio da campanha",
     "resumo": [
-      "Produto: três vistas diferentes",
-      "Personagem: três cenas distintas com a mesma identidade",
+      "Produto: trÃªs vistas diferentes",
+      "Personagem: trÃªs cenas distintas com a mesma identidade",
       "Planejamento e arquivo final devem ter estados diferentes."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Conferir função e identidade: três produtos, três cenas com pessoa, cartaz, infográfico e planejamento de seis quadros.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Composição: cartaz, infográfico e sequência de seis quadros",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Conferir funÃ§Ã£o e identidade: trÃªs produtos, trÃªs cenas com pessoa, cartaz, infogrÃ¡fico e planejamento de seis quadros.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: ComposiÃ§Ã£o: cartaz, infogrÃ¡fico e sequÃªncia de seis quadros",
     "cartoes": [
       [
-        "Duas cópias iguais receberam nomes diferentes. Quantas peças distintas há?",
-        "Uma peça"
+        "Duas cÃ³pias iguais receberam nomes diferentes. Quantas peÃ§as distintas hÃ¡?",
+        "Uma peÃ§a"
       ],
       [
-        "Arquivos duplicados contam como novas peças de campanha?",
-        "Não. Conte entregas por função e registre pendências."
+        "Arquivos duplicados contam como novas peÃ§as de campanha?",
+        "NÃ£o. Conte entregas por funÃ§Ã£o e registre pendÃªncias."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "nove entregas têm arquivo ou pendência e há uma próxima ação"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "nove entregas tÃªm arquivo ou pendÃªncia e hÃ¡ uma prÃ³xima aÃ§Ã£o"
       ]
     ]
   },
   {
-    "titulo": "Revise o texto e registre uma correção",
-    "entrega": "corrigir uma informação e explicar a revisão",
-    "dor": "Revisão visual pode deixar passar uma promessa inventada. Texto merece uma conferência separada.",
-    "antes": "Brisa conserva sua bebida por 24 horas: dado não fornecido.",
-    "depois": "Trocar por Brisa, uma pausa cotidiana. Registrar que a revisão removeu uma promessa sem fonte.",
+    "titulo": "Revise o texto e registre uma correÃ§Ã£o",
+    "entrega": "corrigir uma informaÃ§Ã£o e explicar a revisÃ£o",
+    "dor": "RevisÃ£o visual pode deixar passar uma promessa inventada. Texto merece uma conferÃªncia separada.",
+    "antes": "Brisa conserva sua bebida por 24 horas: dado nÃ£o fornecido.",
+    "depois": "Trocar por Brisa, uma pausa cotidiana. Registrar que a revisÃ£o removeu uma promessa sem fonte.",
     "campos": [
       "Original de treino: conserva por 24 horas",
-      "Dado disponível: nenhuma medida de isolamento",
-      "Revisão: uma pausa cotidiana"
+      "Dado disponÃ­vel: nenhuma medida de isolamento",
+      "RevisÃ£o: uma pausa cotidiana"
     ],
     "passos": [
       "Copie nas Notas a frase de treino: Brisa conserva sua bebida por 24 horas.",
-      "Risque a promessa não fornecida e escreva Brisa, uma pausa cotidiana. Confira grafia e pontuação.",
-      "Guarde as duas frases como antes e depois. Explique em uma linha que removeu um dado sem fonte; não invente resultado comercial."
+      "Risque a promessa nÃ£o fornecida e escreva Brisa, uma pausa cotidiana. Confira grafia e pontuaÃ§Ã£o.",
+      "Guarde as duas frases como antes e depois. Explique em uma linha que removeu um dado sem fonte; nÃ£o invente resultado comercial."
     ],
-    "molde": "Antes: Brisa conserva sua bebida por 24 horas.\nFonte desse dado: não fornecida.\nDepois: Brisa, uma pausa cotidiana.\nMotivo: remover promessa não comprovada no exercício.\nResultado observado: texto sem alegação de desempenho.",
-    "pronto": "uma frase foi realmente corrigida e a razão está registrada",
-    "confira": "O antes e depois mostra uma decisão, não uma conversão de vendas.",
-    "calma": "Você pode realizar toda a revisão no papel. Não precisa gerar nova imagem para corrigir a frase.",
-    "q": "Qual evidência sustenta a mudança do exercício?",
+    "molde": "Antes: Brisa conserva sua bebida por 24 horas.\nFonte desse dado: nÃ£o fornecida.\nDepois: Brisa, uma pausa cotidiana.\nMotivo: remover promessa nÃ£o comprovada no exercÃ­cio.\nResultado observado: texto sem alegaÃ§Ã£o de desempenho.",
+    "pronto": "uma frase foi realmente corrigida e a razÃ£o estÃ¡ registrada",
+    "confira": "O antes e depois mostra uma decisÃ£o, nÃ£o uma conversÃ£o de vendas.",
+    "calma": "VocÃª pode realizar toda a revisÃ£o no papel. NÃ£o precisa gerar nova imagem para corrigir a frase.",
+    "q": "Qual evidÃªncia sustenta a mudanÃ§a do exercÃ­cio?",
     "opcoes": [
-      "A promessa não tinha fonte",
+      "A promessa nÃ£o tinha fonte",
       "A campanha vendeu o dobro",
       "O cliente aprovou sem ter sido consultado"
     ],
     "correta": 0,
-    "observacao": "A faixa de texto é tratada separadamente. Revisar informação não precisa alterar a fotografia inteira.",
-    "tarefa": "Revise o texto e registre uma correção",
+    "observacao": "A faixa de texto Ã© tratada separadamente. Revisar informaÃ§Ã£o nÃ£o precisa alterar a fotografia inteira.",
+    "tarefa": "Revise o texto e registre uma correÃ§Ã£o",
     "resumo": [
       "Original de treino: conserva por 24 horas",
-      "Dado disponível: nenhuma medida de isolamento",
-      "O antes e depois mostra uma decisão, não uma conversão de vendas."
+      "Dado disponÃ­vel: nenhuma medida de isolamento",
+      "O antes e depois mostra uma decisÃ£o, nÃ£o uma conversÃ£o de vendas."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Trocar por Brisa, uma pausa cotidiana. Registrar que a revisão removeu uma promessa sem fonte.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Revisão: uma pausa cotidiana",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Trocar por Brisa, uma pausa cotidiana. Registrar que a revisÃ£o removeu uma promessa sem fonte.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: RevisÃ£o: uma pausa cotidiana",
     "cartoes": [
       [
-        "Qual evidência sustenta a mudança do exercício?",
-        "A promessa não tinha fonte"
+        "Qual evidÃªncia sustenta a mudanÃ§a do exercÃ­cio?",
+        "A promessa nÃ£o tinha fonte"
       ],
       [
-        "Como apresentar uma revisão sem inventar resultado comercial?",
-        "Mostrar a alteração e a evidência, sem alegar vendas ou aprovação inexistentes."
+        "Como apresentar uma revisÃ£o sem inventar resultado comercial?",
+        "Mostrar a alteraÃ§Ã£o e a evidÃªncia, sem alegar vendas ou aprovaÃ§Ã£o inexistentes."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "uma frase foi realmente corrigida e a razão está registrada"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "uma frase foi realmente corrigida e a razÃ£o estÃ¡ registrada"
       ]
     ]
   },
   {
-    "titulo": "Organize a entrega e escolha o próximo treino",
-    "entrega": "criar uma estrutura de arquivos com pendências honestas",
-    "dor": "Uma pasta cheia de testes não explica a campanha. Nomes claros permitem abrir, revisar e continuar o trabalho.",
-    "antes": "Entregar testes, referências e finais misturados sem indicação.",
-    "depois": "Separar finais, referências e fontes. Incluir um registro com modelo usado, mudanças e peças ainda pendentes.",
+    "titulo": "Organize a entrega e escolha o prÃ³ximo treino",
+    "entrega": "criar uma estrutura de arquivos com pendÃªncias honestas",
+    "dor": "Uma pasta cheia de testes nÃ£o explica a campanha. Nomes claros permitem abrir, revisar e continuar o trabalho.",
+    "antes": "Entregar testes, referÃªncias e finais misturados sem indicaÃ§Ã£o.",
+    "depois": "Separar finais, referÃªncias e fontes. Incluir um registro com modelo usado, mudanÃ§as e peÃ§as ainda pendentes.",
     "campos": [
-      "Finais: somente peças aprovadas",
-      "Referências e fontes: bases e composição editável",
-      "Registro: decisões, modelo e pendências"
+      "Finais: somente peÃ§as aprovadas",
+      "ReferÃªncias e fontes: bases e composiÃ§Ã£o editÃ¡vel",
+      "Registro: decisÃµes, modelo e pendÃªncias"
     ],
     "passos": [
       "No celular, abra Arquivos e procure Nova pasta. No computador, use Nova pasta. Crie Brisa e, dentro, finais, referencias e fontes.",
-      "Guarde em finais somente arquivos aprovados. Se não houver, deixe vazia. Nas Notas, liste o conteúdo e as pendências para salvar como registro.",
-      "Abra uma imagem final, se existir, e confira suas dimensões em Informações. Escolha a próxima tarefa real para concluir a campanha ou testar outro produto."
+      "Guarde em finais somente arquivos aprovados. Se nÃ£o houver, deixe vazia. Nas Notas, liste o conteÃºdo e as pendÃªncias para salvar como registro.",
+      "Abra uma imagem final, se existir, e confira suas dimensÃµes em InformaÃ§Ãµes. Escolha a prÃ³xima tarefa real para concluir a campanha ou testar outro produto."
     ],
-    "molde": "Projeto: Brisa, exercício autoral.\nModelo usado: <nome observado ou ainda não usado>.\nFinais: <arquivos ou nenhum ainda>.\nReferências: <origem autorizada>.\nFontes editáveis: <arquivos ou pendentes>.\nLimitações: <o que falta>.\nPróximo treino: <uma ação>.",
-    "pronto": "pastas ou prefixos organizam os arquivos e o registro distingue entregas de pendências",
-    "confira": "Exportar o progresso do curso não inclui suas imagens externas.",
-    "calma": "Não achou Nova pasta? Use uma pasta existente e nomes finais-, referencia- e fonte- nos arquivos. Registre essa organização.",
+    "molde": "Projeto: Brisa, exercÃ­cio autoral.\nModelo usado: <nome observado ou ainda nÃ£o usado>.\nFinais: <arquivos ou nenhum ainda>.\nReferÃªncias: <origem autorizada>.\nFontes editÃ¡veis: <arquivos ou pendentes>.\nLimitaÃ§Ãµes: <o que falta>.\nPrÃ³ximo treino: <uma aÃ§Ã£o>.",
+    "pronto": "pastas ou prefixos organizam os arquivos e o registro distingue entregas de pendÃªncias",
+    "confira": "Exportar o progresso do curso nÃ£o inclui suas imagens externas.",
+    "calma": "NÃ£o achou Nova pasta? Use uma pasta existente e nomes finais-, referencia- e fonte- nos arquivos. Registre essa organizaÃ§Ã£o.",
     "q": "O progresso do curso foi exportado. Onde ficam as imagens da campanha?",
     "opcoes": [
-      "Nos arquivos guardados por você",
-      "Dentro de toda cópia de progresso",
-      "Automaticamente no portal INEMA"
+      "Nos arquivos guardados por vocÃª",
+      "Dentro de toda cÃ³pia de progresso",
+      "Automaticamente no portal ARCKHÉ"
     ],
     "correta": 0,
-    "observacao": "As pastas separam entrega, referências e registro. Só uma peça revisada deve entrar nos finais.",
-    "tarefa": "Organize a entrega e escolha o próximo treino",
+    "observacao": "As pastas separam entrega, referÃªncias e registro. SÃ³ uma peÃ§a revisada deve entrar nos finais.",
+    "tarefa": "Organize a entrega e escolha o prÃ³ximo treino",
     "resumo": [
-      "Finais: somente peças aprovadas",
-      "Referências e fontes: bases e composição editável",
-      "Exportar o progresso do curso não inclui suas imagens externas."
+      "Finais: somente peÃ§as aprovadas",
+      "ReferÃªncias e fontes: bases e composiÃ§Ã£o editÃ¡vel",
+      "Exportar o progresso do curso nÃ£o inclui suas imagens externas."
     ],
-    "ex1": "Lia, designer, usa a decisão do exemplo no cartaz de uma pequena loja. Separar finais, referências e fontes. Incluir um registro com modelo usado, mudanças e peças ainda pendentes.",
-    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Registro: decisões, modelo e pendências",
+    "ex1": "Lia, designer, usa a decisÃ£o do exemplo no cartaz de uma pequena loja. Separar finais, referÃªncias e fontes. Incluir um registro com modelo usado, mudanÃ§as e peÃ§as ainda pendentes.",
+    "ex2": "Renato, comerciante, confere a encomenda pelo registro: Registro: decisÃµes, modelo e pendÃªncias",
     "cartoes": [
       [
         "O progresso do curso foi exportado. Onde ficam as imagens da campanha?",
-        "Nos arquivos guardados por você"
+        "Nos arquivos guardados por vocÃª"
       ],
       [
-        "Qual organização serve quando não há botão Nova pasta?",
-        "Usar prefixos de nomes numa pasta existente e registrar a convenção."
+        "Qual organizaÃ§Ã£o serve quando nÃ£o hÃ¡ botÃ£o Nova pasta?",
+        "Usar prefixos de nomes numa pasta existente e registrar a convenÃ§Ã£o."
       ],
       [
-        "Que evidência mostraria que você terminou esta prática?",
-        "pastas ou prefixos organizam os arquivos e o registro distingue entregas de pendências"
+        "Que evidÃªncia mostraria que vocÃª terminou esta prÃ¡tica?",
+        "pastas ou prefixos organizam os arquivos e o registro distingue entregas de pendÃªncias"
       ]
     ]
   }

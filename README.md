@@ -1,4 +1,4 @@
-﻿# Nano Banana Pro v6.2 â€” Campanha de Marca Completa
+# Nano Banana Pro v6.2 â€” Campanha de Marca Completa
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -9,7 +9,7 @@
 Curso aberto e gratuito: seis mÃ³dulos, 18 aulas de aproximadamente 15 minutos.
 Caso autoral Brisa: produto, personagem fictÃ­cia, paleta, texto, infogrÃ¡fico e sequÃªncia visual.
 
-[Abra o curso](https://inematds.github.io/curso-nano-banana-pro/).
+[Abra o curso](https://linnoff88-dev.github.io/
 
 As ilustraÃ§Ãµes didÃ¡ticas foram geradas exclusivamente com Codex image_gen. NÃ£o sÃ£o resultados do Nano Banana.
 As prÃ¡ticas orientam o aluno a registrar o modelo realmente utilizado. GeraÃ§Ã£o pode exigir conta e crÃ©ditos;
@@ -18,7 +18,7 @@ atividades nÃ£o executadas permanecem pendentes. O formato Ã© inspirado no O
 ## Arquivos
 
 `context/conteudo-base.json` e `context/aulas-editoriais.json` sÃ£o as fontes autorais.
-`montar.py` gera as aulas e invoca o montador oficial INEMA v6 para `curso.html` e a lista da landing.
+`montar.py` gera as aulas e invoca o montador oficial ARCKHÉ v6 para `curso.html` e a lista da landing.
 `assets/aula.css` e `assets/curso.js` sÃ£o cÃ³pias sem alteraÃ§Ãµes do motor oficial.
 `context/fontes.md` registra documentaÃ§Ã£o oficial consultada; `context/leitor-*.md` registra revisÃµes simuladas.
 NÃ£o hÃ¡ vÃ­deos, transcriÃ§Ãµes ou imagens copiados do acervo privado de terceiros.
@@ -36,15 +36,15 @@ node /caminho/formato-curso-v6/scripts/testar-motor.cjs curso.html
 Os verificadores usam Playwright; `PLAYWRIGHT_PATH` pode indicar sua instalaÃ§Ã£o.
 O formato educacional Ã© v6.2; a versÃ£o do conteÃºdo Ã© 1.1.0.
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha do curso](https://www.inema.club/cursos/284-nano-banana-pro-v6-2-campanha-de-marca-completa/)
-- [Guia para aprender IA](https://www.inema.club/aprender-inteligencia-artificial/)
-- [CatÃ¡logo](https://www.inema.club/cursos/)
+- [Ficha do curso](https://www.ARCKHÉ AI/cursos/284-nano-banana-pro-v6-2-campanha-de-marca-completa/)
+- [Guia para aprender IA](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [CatÃ¡logo](https://www.ARCKHÉ AI/cursos/)
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-nano-banana-pro/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-nano-banana-pro/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -60,13 +60,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/284-nano-banana-pro-v6-2-campanha-de-marca-completa/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/284-nano-banana-pro-v6-2-campanha-de-marca-completa/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
