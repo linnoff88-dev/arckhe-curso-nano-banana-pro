@@ -1,19 +1,19 @@
 {
   "id": "nano-banana-pro-v62",
-  "titulo": "Nano Banana Pro v6.2 â€” Campanha de Marca Completa",
+  "titulo": "Nano Banana Pro v6.2 ê¢â¬â Campanha de Marca Completa",
   "titulo_html": "Uma campanha com <em>identidade</em>",
   "curso_curto": "Nano Banana v6.2",
-  "kicker": "Nano Banana Pro v6.2 Â· 6 mÃ³dulos Â· 18 aulas",
-  "lead": "Organize referÃªncias, preserve o produto e construa uma campanha com linguagem visual coerente. Planeje, produza e revise cada peÃ§a com critÃ©rios claros.",
+  "kicker": "Nano Banana Pro v6.2 êÂ· 6 mêÂ³dulos êÂ· 18 aulas",
+  "lead": "Organize referêÂªncias, preserve o produto e construa uma campanha com linguagem visual coerente. Planeje, produza e revise cada peêÂ§a com critêÂ©rios claros.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "ArtesÃ£ e comerciante organizam uma caneca de cerÃ¢mica, fundo e luz para uma imagem de produto.",
-  "rodape": "Nano Banana Pro v6.2 Â· ARCKHÉ AI PRO Â· <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "ArtesêÂ£ e comerciante organizam uma caneca de cerêÂ¢mica, fundo e luz para uma imagem de produto.",
+  "rodape": "Nano Banana Pro v6.2 êÂ· ARCKHê AI PRO êÂ· <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "glossario": true,
   "modulos": [
     {
-      "titulo": "MÃ³dulo 1 Â· Prepare o modelo, a encomenda e as referÃªncias",
-      "resumo": "VocÃª vai configurar um teste de campanha com papÃ©is claros para cada referÃªncia.",
+      "titulo": "MêÂ³dulo 1 êÂ· Prepare o modelo, a encomenda e as referêÂªncias",
+      "resumo": "VocêÂª vai configurar um teste de campanha com papêÂ©is claros para cada referêÂªncia.",
       "aulas": [
         1,
         2,
@@ -21,8 +21,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 2 Â· Produto e personagem: uma base consistente",
-      "resumo": "VocÃª vai aprovar o produto e uma personagem fictÃ­cia antes de expandir as cenas.",
+      "titulo": "MêÂ³dulo 2 êÂ· Produto e personagem: uma base consistente",
+      "resumo": "VocêÂª vai aprovar o produto e uma personagem fictêÂ­cia antes de expandir as cenas.",
       "aulas": [
         4,
         5,
@@ -30,8 +30,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 3 Â· Controle de marca: cor, texto e hierarquia",
-      "resumo": "VocÃª vai separar geraÃ§Ã£o visual de acabamento exato e montar uma peÃ§a de marca legÃ­vel.",
+      "titulo": "MêÂ³dulo 3 êÂ· Controle de marca: cor, texto e hierarquia",
+      "resumo": "VocêÂª vai separar geraêÂ§êÂ£o visual de acabamento exato e montar uma peêÂ§a de marca legêÂ­vel.",
       "aulas": [
         7,
         8,
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 4 Â· ExploraÃ§Ã£o criativa e storyboard",
-      "resumo": "VocÃª vai explorar variaÃ§Ãµes mantendo uma ideia e planejar uma histÃ³ria em seis quadros.",
+      "titulo": "MêÂ³dulo 4 êÂ· ExploraêÂ§êÂ£o criativa e storyboard",
+      "resumo": "VocêÂª vai explorar variaêÂ§êÂµes mantendo uma ideia e planejar uma histêÂ³ria em seis quadros.",
       "aulas": [
         10,
         11,
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 5 Â· EdiÃ§Ãµes, referÃªncias mÃºltiplas e adaptaÃ§Ãµes",
-      "resumo": "VocÃª vai aplicar mudanÃ§as pontuais, controlar deriva e adaptar a campanha a novos formatos.",
+      "titulo": "MêÂ³dulo 5 êÂ· EdiêÂ§êÂµes, referêÂªncias mêÂºltiplas e adaptaêÂ§êÂµes",
+      "resumo": "VocêÂª vai aplicar mudanêÂ§as pontuais, controlar deriva e adaptar a campanha a novos formatos.",
       "aulas": [
         13,
         14,
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 6 Â· Projeto final: campanha Brisa",
-      "resumo": "VocÃª vai reunir as peÃ§as, conferir continuidade e apresentar o processo com clareza.",
+      "titulo": "MêÂ³dulo 6 êÂ· Projeto final: campanha Brisa",
+      "resumo": "VocêÂª vai reunir as peêÂ§as, conferir continuidade e apresentar o processo com clareza.",
       "aulas": [
         16,
         17,
